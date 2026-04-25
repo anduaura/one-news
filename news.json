@@ -1,0 +1,23 @@
+{
+  "2026-04-25": {
+    "category": "Top Story",
+    "headline": "One headline a day, the rest can wait.",
+    "summary": "This is the only story you will see today. The cure for endless scrolling is a list of length one. Come back tomorrow for the next one.",
+    "source": "One News",
+    "url": ""
+  },
+  "2026-04-24": {
+    "category": "Idea",
+    "headline": "Slow news is good news.",
+    "summary": "Most headlines age out within hours. A single, considered story per day keeps you informed without burning the afternoon.",
+    "source": "One News",
+    "url": ""
+  },
+  "2026-04-23": {
+    "category": "Welcome",
+    "headline": "Welcome to One News.",
+    "summary": "One top story per day. No infinite feed, no notifications, no scrolling. Edit news.json to add the next day's entry.",
+    "source": "One News",
+    "url": ""
+  }
+}

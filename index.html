@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>One News</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="app" aria-live="polite">
+      <header class="masthead">
+        <span class="brand">One News</span>
+        <time id="date" class="date"></time>
+      </header>
+      <article class="story" hidden>
+        <span id="category" class="category"></span>
+        <h1 id="headline" class="headline"></h1>
+        <p id="summary" class="summary"></p>
+        <footer class="byline">
+          <span id="source" class="source"></span>
+          <a id="link" class="link" target="_blank" rel="noopener">Read more &rarr;</a>
+        </footer>
+      </article>
+      <p id="empty" class="empty" hidden>No news today. Enjoy the quiet.</p>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
