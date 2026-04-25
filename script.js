@@ -40,7 +40,7 @@ const renderTabs = (categories, activeSlug, onSelect) => {
     btn.className = "tab";
     btn.textContent = cat.label;
     btn.dataset.slug = cat.slug;
-    btn.role = "tab";
+    btn.setAttribute("role", "tab");
     btn.setAttribute("aria-selected", String(cat.slug === activeSlug));
     btn.addEventListener("click", () => onSelect(cat.slug));
     nav.appendChild(btn);
