@@ -3,6 +3,8 @@
 A site that shows exactly one top story per day. The page fits the viewport,
 so there is nothing to scroll.
 
+**Live:** <https://anduaura.github.io/one-news/>
+
 ## How it works
 
 - `index.html` / `styles.css` / `script.js` — a static, dependency-free page.
