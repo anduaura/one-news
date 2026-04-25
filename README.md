@@ -20,9 +20,27 @@ python3 -m http.server 8000
 # then open http://localhost:8000
 ```
 
-## Add a story
+## Automation
 
-Edit `news.json` and add a new entry keyed by an ISO date (`YYYY-MM-DD`):
+`scripts/update-news.py` fetches the top item from the BBC News RSS feed
+(`https://feeds.bbci.co.uk/news/rss.xml`) and writes it into `news.json`
+keyed by today's UTC date. It uses only the Python standard library.
+
+`.github/workflows/daily-news.yml` runs the script every day at 06:05 UTC
+and commits the change back to the branch. It can also be triggered
+manually from the Actions tab. The workflow needs `contents: write`
+permission on the repository (set in the workflow itself; if your org
+restricts default `GITHUB_TOKEN` permissions, enable "Read and write"
+under Settings → Actions → General).
+
+To swap sources, edit `FEED_URL` and `SOURCE_NAME` at the top of
+`scripts/update-news.py`. Any standard RSS 2.0 feed works (NPR, Guardian,
+Al Jazeera, etc.).
+
+## Manual override
+
+You can still pin a specific story for a given day. Add `"manual": true`
+to the entry and the daily script will leave it alone:
 
 ```json
 "2026-05-01": {
@@ -30,7 +48,8 @@ Edit `news.json` and add a new entry keyed by an ISO date (`YYYY-MM-DD`):
   "headline": "Your headline here.",
   "summary": "One short paragraph. Keep it readable in a single screen.",
   "source": "Where it came from",
-  "url": "https://example.com/article"
+  "url": "https://example.com/article",
+  "manual": true
 }
 ```
 
@@ -39,4 +58,5 @@ Edit `news.json` and add a new entry keyed by an ISO date (`YYYY-MM-DD`):
 ## Deploy
 
 Any static host works (GitHub Pages, Netlify, Vercel, S3, …). There is no
-build step.
+build step. For GitHub Pages, point Pages at the same branch the workflow
+commits to so the daily update goes live automatically.
