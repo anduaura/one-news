@@ -1,23 +1,26 @@
 {
   "2026-04-25": {
-    "category": "Top Story",
-    "headline": "Falklands veteran hopes King can persuade Trump to 'back down'",
-    "summary": "Simon Weston says reports the US is reviewing the UK's claim to the territory makes his sacrifice feel \"irrelevant\".",
-    "source": "BBC News",
-    "url": "https://www.bbc.com/news/articles/c62lp853214o?at_medium=RSS&at_campaign=rss"
+    "top": {
+      "headline": "Falklands veteran hopes King can persuade Trump to 'back down'",
+      "summary": "Simon Weston says reports the US is reviewing the UK's claim to the territory makes his sacrifice feel \"irrelevant\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62lp853214o?at_medium=RSS&at_campaign=rss"
+    }
   },
   "2026-04-24": {
-    "category": "Idea",
-    "headline": "Slow news is good news.",
-    "summary": "Most headlines age out within hours. A single, considered story per day keeps you informed without burning the afternoon.",
-    "source": "One News",
-    "url": ""
+    "top": {
+      "headline": "Slow news is good news.",
+      "summary": "Most headlines age out within hours. A single, considered story per day keeps you informed without burning the afternoon.",
+      "source": "One News",
+      "url": ""
+    }
   },
   "2026-04-23": {
-    "category": "Welcome",
-    "headline": "Welcome to One News.",
-    "summary": "One top story per day. No infinite feed, no notifications, no scrolling. Edit news.json to add the next day's entry.",
-    "source": "One News",
-    "url": ""
+    "top": {
+      "headline": "Welcome to One News.",
+      "summary": "One top story per day per category. No infinite feed, no notifications, no scrolling.",
+      "source": "One News",
+      "url": ""
+    }
   }
 }

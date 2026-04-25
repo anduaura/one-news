@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Fetch the top news story from a public RSS feed and update news.json.
+"""Fetch the top story for each category in categories.json and update news.json.
 
 Runs daily via .github/workflows/daily-news.yml. Stdlib-only so no install
-step is needed in CI.
+step is needed in CI. Per-category failures are logged but do not abort
+the run; entries already present remain in place.
 """
 from __future__ import annotations
 
@@ -14,15 +15,16 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 
-FEED_URL = "https://feeds.bbci.co.uk/news/rss.xml"
-SOURCE_NAME = "BBC News"
-NEWS_FILE = Path(__file__).resolve().parent.parent / "news.json"
+ROOT = Path(__file__).resolve().parent.parent
+NEWS_FILE = ROOT / "news.json"
+CATEGORIES_FILE = ROOT / "categories.json"
 TIMEOUT_SECONDS = 30
 MAX_SUMMARY_CHARS = 320
+USER_AGENT = "one-news/1.0 (+https://github.com/anduaura/one-news)"
 
 
-def fetch_top_story() -> dict:
-    req = urllib.request.Request(FEED_URL, headers={"User-Agent": "one-news/1.0"})
+def fetch_top_story(feed_url: str, source: str) -> dict:
+    req = urllib.request.Request(feed_url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=TIMEOUT_SECONDS) as resp:
         body = resp.read()
     root = ET.fromstring(body)
@@ -42,18 +44,17 @@ def fetch_top_story() -> dict:
         raise RuntimeError("Top item missing a title")
 
     return {
-        "category": "Top Story",
         "headline": title,
         "summary": description,
-        "source": SOURCE_NAME,
+        "source": source,
         "url": link,
     }
 
 
-def load_entries() -> dict:
-    if not NEWS_FILE.exists():
-        return {}
-    return json.loads(NEWS_FILE.read_text())
+def load_json(path: Path, default):
+    if not path.exists():
+        return default
+    return json.loads(path.read_text())
 
 
 def save_entries(entries: dict) -> None:
@@ -63,22 +64,38 @@ def save_entries(entries: dict) -> None:
 
 def main() -> int:
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    entries = load_entries()
+    categories = load_json(CATEGORIES_FILE, [])
+    entries = load_json(NEWS_FILE, {})
+    day = entries.setdefault(today, {})
 
-    existing = entries.get(today)
-    if isinstance(existing, dict) and existing.get("manual"):
-        print(f"Keeping manual entry for {today}")
-        return 0
+    changed = False
+    failures: list[str] = []
 
-    story = fetch_top_story()
-    if existing == story:
-        print(f"No change for {today}: {story['headline']}")
-        return 0
+    for cat in categories:
+        slug = cat["slug"]
+        existing = day.get(slug)
+        if isinstance(existing, dict) and existing.get("manual"):
+            print(f"[{slug}] keeping manual entry")
+            continue
+        try:
+            story = fetch_top_story(cat["feed"], cat["source"])
+        except Exception as err:
+            failures.append(f"{slug}: {err}")
+            print(f"[{slug}] fetch failed: {err}", file=sys.stderr)
+            continue
+        if existing == story:
+            print(f"[{slug}] no change: {story['headline']}")
+            continue
+        day[slug] = story
+        changed = True
+        print(f"[{slug}] updated: {story['headline']}")
 
-    entries[today] = story
-    save_entries(entries)
-    print(f"Updated {today}: {story['headline']}")
-    return 0
+    if changed:
+        save_entries(entries)
+    else:
+        print("No changes to write.")
+
+    return 1 if failures and not changed else 0
 
 
 if __name__ == "__main__":

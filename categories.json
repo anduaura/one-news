@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "top",
+    "label": "Top",
+    "feed": "https://feeds.bbci.co.uk/news/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "slug": "soccer",
+    "label": "Soccer",
+    "feed": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+    "source": "BBC Sport"
+  },
+  {
+    "slug": "us",
+    "label": "US",
+    "feed": "https://feeds.npr.org/1003/rss.xml",
+    "source": "NPR"
+  },
+  {
+    "slug": "world",
+    "label": "World",
+    "feed": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "slug": "business",
+    "label": "Business",
+    "feed": "https://feeds.bbci.co.uk/news/business/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "slug": "tech",
+    "label": "Tech",
+    "feed": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    "source": "BBC News"
+  },
+  {
+    "slug": "science",
+    "label": "Science",
+    "feed": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "source": "BBC News"
+  }
+]
