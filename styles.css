@@ -62,16 +62,10 @@ body {
 
 .tabs {
   display: flex;
-  gap: 0.25rem;
-  overflow-x: auto;
-  scrollbar-width: none;
-  margin: 0 calc(-1 * clamp(1rem, 5vw, 2rem));
-  padding: 0 clamp(1rem, 5vw, 2rem);
-  scroll-padding-inline: clamp(1rem, 5vw, 2rem);
+  flex-wrap: wrap;
+  gap: 0.4rem;
   flex: 0 0 auto;
 }
-
-.tabs::-webkit-scrollbar { display: none; }
 
 .tab {
   flex: 0 0 auto;

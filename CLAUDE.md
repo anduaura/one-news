@@ -27,7 +27,7 @@ There are no tests, linters, or formatters configured; do not invent commands fo
 
 Four pieces, loosely coupled by the two JSON files:
 
-1. **Static page** (`index.html`, `styles.css`, `script.js`) — `script.js` loads `categories.json` and `news.json` in parallel, renders the tab bar, and picks the story for the active category for the visitor's **local** `YYYY-MM-DD`. If that day×category cell is empty, it falls back to the most recent past entry **for that category** (not just the most recent date overall — important when a feed misses a day). The active category persists in `localStorage` under `one-news.category`. The viewport is locked (`100dvh`, `overflow: hidden`); the tabs row scrolls horizontally but the body never scrolls — preserve that constraint.
+1. **Static page** (`index.html`, `styles.css`, `script.js`) — `script.js` loads `categories.json` and `news.json` in parallel, renders the tab bar, and picks the story for the active category for the visitor's **local** `YYYY-MM-DD`. If that day×category cell is empty, it falls back to the most recent past entry **for that category** (not just the most recent date overall — important when a feed misses a day). The active category persists in `localStorage` under `one-news.category`. The viewport is locked (`100dvh`, `overflow: hidden`); the tab bar wraps onto multiple lines as needed and the body never scrolls — preserve that constraint.
 
 2. **Categories config** (`categories.json`) — array of `{slug, label, feed, source}`. The page uses `slug`/`label`; the fetcher uses `feed`/`source`. Single source of truth — adding a category here is enough to make a tab appear and start populating data on the next workflow run.
 
@@ -60,4 +60,4 @@ The `category` display label comes from `categories.json[].label`, **not** from 
 - **No build artifacts in the repo.** Pages serves files as-is from the repo root; any new tooling must not require a build step to view the site.
 - **Stdlib-only for the fetcher.** Do not add `requests`, `feedparser`, etc.; the workflow installs nothing.
 - **One feed per category, one item per day.** The site's promise is exactly one story per category per day — don't introduce lists, carousels, or "more stories" affordances.
-- **Keep the body unscrollable.** New UI goes inside `#app`'s flex column with sensible flex sizing; only `.tabs` may scroll (horizontally).
+- **Keep the body unscrollable.** New UI goes inside `#app`'s flex column with sensible flex sizing; the tab bar wraps to multiple lines if needed instead of overflowing.
