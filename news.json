@@ -1,4 +1,48 @@
 {
+  "2026-04-28": {
+    "top": {
+      "headline": "UK and US always find ways to come together, King to tell Congress",
+      "summary": "King Charles will address the US Congress on Tuesday at a time of diplomatic tensions between London and Washington.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "All but back in Champions League - yet big decisions loom at Man Utd",
+      "summary": "Barring an unlikely sequence of results, Old Trafford will host Champions League football again next season, but for those running the club, their most significant work is about to begin.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cqxpjrlry4xo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Former Homeland Security official on how to protect the president at events",
+      "summary": "NPR's A Martinez asks former Homeland Security official Juliette Kayyem about security needs and constraints when protecting President Trump during an event like Saturday's dinner.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/28/nx-s1-5801417/former-homeland-security-official-on-how-to-protect-the-president-at-events"
+    },
+    "world": {
+      "headline": "Suspect charged with attempted assassination of Trump at Washington dinner",
+      "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "BP profits more than double as Iran war sends oil prices higher",
+      "summary": "The energy giant said it had seen an \"exceptional\" performance at its oil trading business.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Why Spotify has no button to filter out AI music",
+      "summary": "Music streamer Deezer allows users to filter out AI music, so why does Spotify not offer the same?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd7jpg4w181o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "UK's biggest ever environmental pollution claim reaches High Court",
+      "summary": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-04-27": {
     "top": {
       "headline": "King to revitalise US relationship, says UK ambassador as trip goes ahead",
