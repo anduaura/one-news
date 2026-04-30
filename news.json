@@ -1,4 +1,48 @@
 {
+  "2026-04-30": {
+    "top": {
+      "headline": "Watch: Met Police body-worn footage of Golders Green arrest",
+      "summary": "Footage shows the moment a man was arrested after two Jewish men were stabbed in north London.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Were Arsenal right to be 'fuming' with refereeing after Atletico draw?",
+      "summary": "Mikel Arteta was left \"fuming\" with the officials after Arsenal's draw at Atletico Madrid - what did they get right and wrong?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cr5p4335v7qo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "How rising jet fuel prices are driving up the cost of fighting wildfires",
+      "summary": "The Iran war has nearly doubled jet fuel prices in the United States. That means the bill for firefighting aircraft operations this summer will likely rise by tens of millions of dollars.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/30/nx-s1-5775794/fuel-costs-iran-war-wildfires"
+    },
+    "world": {
+      "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
+      "summary": "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Global forest loss slows but El Ni\u00f1o fires could threaten progress",
+      "summary": "The loss of tropical rainforests eased last year, according to new analysis, but scientists warn they are still disappearing rapidly.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-04-29": {
     "top": {
       "headline": "Five takeaways from the King's historic address to Congress",
