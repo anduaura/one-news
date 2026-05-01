@@ -1,4 +1,48 @@
 {
+  "2026-05-01": {
+    "top": {
+      "headline": "New footage shows how Trump dinner gunman charged through security in four seconds",
+      "summary": "The CCTV shows an officer draw a firearm and open fire as the suspect sprints past.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g7rmrlm17o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'Where are you? Wow. It is so, so bad' - Emery's impassioned VAR rant",
+      "summary": "Aston Villa boss Unai Emery says VAR made a \"huge mistake\" in not sending off Nottingham Forest's Elliot Anderson in their Europa League semi-final first leg.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cwy2l4k1z0go?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Republicans say they will defer to Trump on Iran war despite arrival of deadline",
+      "summary": "Republican lawmakers say they will continue to defer to President Donald Trump, for now, during the fragile ceasefire with Iran.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/01/g-s1-119670/republicans-defer-to-trump-on-iran-war-despite-deadline"
+    },
+    "world": {
+      "headline": "Violence in Australian town after arrest of man over girl's murder",
+      "summary": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
+      "summary": "The number of county court judgements rose by 17.5% in the first quarter of this year compared to last, data suggests.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Will AI lead to more accurate opinion polls?",
+      "summary": "It's cheaper and faster to collect people's opinions using AI, but will it make polls more accurate?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Global forest loss slows but El Ni\u00f1o fires could threaten progress",
+      "summary": "The loss of tropical rainforests eased last year, according to new analysis, but scientists warn they are still disappearing rapidly.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-04-30": {
     "top": {
       "headline": "Watch: Met Police body-worn footage of Golders Green arrest",
