@@ -1,4 +1,48 @@
 {
+  "2026-05-02": {
+    "top": {
+      "headline": "Some protests may need to stop, PM suggests, after calls for pause on pro-Palestinian marches",
+      "summary": "The PM tells the BBC he is concerned about the \"cumulative\" effect of marches on the Jewish community.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj9pn2v7m2wo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "All but safe? Leeds ease 'anxiety' - and increase pressure on others",
+      "summary": "No club has ever been relegated with 43 points at the end of a Premier League season - so have Leeds already done enough to secure survival?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cx218k4ddp4o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Spirit Airlines ceases operations after escalating financial struggles",
+      "summary": "The low-cost carrier, which had been struggling for years, announced it will cease operations. Spirit had been seeking a $500 million lifeline from the White House, but talks failed to yield a deal.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/02/nx-s1-5807933/spirit-airlines-ceases-operations-folds"
+    },
+    "world": {
+      "headline": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Trump says he will hike tariffs on EU cars to 25%",
+      "summary": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Oscars says AI actors and writing cannot win awards",
+      "summary": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Is this the real face of Anne Boleyn?",
+      "summary": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-01": {
     "top": {
       "headline": "New footage shows how Trump dinner gunman charged through security in four seconds",
