@@ -1,4 +1,48 @@
 {
+  "2026-05-04": {
+    "top": {
+      "headline": "The threat to summer holidays looming from jet fuel shortages",
+      "summary": "What impact might shortages have on our summer holidays - and what could be done about it?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'Premflix' and tourist fans - future of football predictions",
+      "summary": "Former broadcasting executive Neil Duncanson and author Alex Fynn, who made remarkably accurate predictions about football's future in 1994, discuss what the game will look like in 10 years' time.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cn4vpezd2jpo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "2 US service members missing after military exercises in Morocco",
+      "summary": "Two U.S. service members are missing in southwestern Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (AFRICOM) said.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/04/g-s1-119963/2-us-service-members-missing-in-morocco"
+    },
+    "world": {
+      "headline": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+      "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Trump says US to 'guide' stranded ships through Strait of Hormuz",
+      "summary": "More than 100 aircraft and 15,000 personnel will be part of the operation due to start on Monday, the US military says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c775jevkyv2o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Oscars says AI actors and writing cannot win awards",
+      "summary": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Is this the real face of Anne Boleyn?",
+      "summary": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-03": {
     "top": {
       "headline": "King's speech was a 'high stakes' moment of US visit, Palace says",
