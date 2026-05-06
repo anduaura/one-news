@@ -1,4 +1,48 @@
 {
+  "2026-05-06": {
+    "top": {
+      "headline": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
+      "summary": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "The league is the dream - but is this Arsenal's moment in Europe?",
+      "summary": "All the talk has been about Arsenal's Premier League title challenge - but is this now the Gunners' time to conquer Europe?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cj0p2p60vl2o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Trump-backed Ramaswamy wins Ohio governor primary, setting up a competitive Nov. race",
+      "summary": "In Ohio, where a Democrat hasn't won an election for governor in 20 years, Republican Vivek Ramaswamy and Democrat Amy Acton could be in for a tight race this fall.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/05/nx-s1-5812914/ramaswamy-trump-ohio-governor"
+    },
+    "world": {
+      "headline": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
+      "summary": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Airlines cut 13,000 flights in May as jet fuel prices soar",
+      "summary": "Airlines have removed nearly two million seats from flights over the month, data from Cirium shows.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
+      "summary": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Is this the real face of Anne Boleyn?",
+      "summary": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-05": {
     "top": {
       "headline": "Dangerous baby-sleep advice given to parents by self-described experts, secret filming reveals",
