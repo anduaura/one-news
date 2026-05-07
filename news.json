@@ -1,4 +1,48 @@
 {
+  "2026-05-07": {
+    "top": {
+      "headline": "Two Britons self-isolating in UK after leaving hantavirus cruise ship",
+      "summary": "A British man is among three people evacuated from the ship while two other Britons are self-isolating in the UK.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "From ego-ridden team to complete package - why PSG pose ultimate test",
+      "summary": "Luis Enrique's expertise at rebuilding a culture as well as a team means Arsenal will confront the complete package when they meet holders PSG in the Champions League final.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cx218q541lvo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Federal authorities arrest 18 for alleged drug distribution around Los Angeles park",
+      "summary": "The area, called MacArthur Park, is a densely populated immigrant neighborhood west of downtown LA where federal immigration authorities and the National Guard made a brief  show of force last summer.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/07/g-s1-120659/authorities-arrest-drug-distribution-los-angeles"
+    },
+    "world": {
+      "headline": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
+      "summary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Shell profits rise as Iran war pushes oil prices higher",
+      "summary": "The energy giant reports profits of $6.92bn for the first three months of the year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "In 'Musk v Altman', this judge will make the final call",
+      "summary": "The feud has fuelled a costly showdown between two tech titans.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Massive Alaska megatsunami was second largest ever recorded",
+      "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-06": {
     "top": {
       "headline": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
