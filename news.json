@@ -1,4 +1,48 @@
 {
+  "2026-05-08": {
+    "top": {
+      "headline": "Chris Mason: What the results tell us so far",
+      "summary": "So far, we have a chunk of the results around the parts of England that have had contests and no results yet from Scotland or Wales.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz8d556zpo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Vibrant and victorious - Villa ready to end 30-year trophy drought",
+      "summary": "When Unai Emery arrived at Aston Villa he declared he wanted to win trophies. He is now just a game away from silverware after a crushing Europa League semi-final win against Nottingham Forest.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cddpy80r5dgo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "U.S. military says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz",
+      "summary": "The U.S. military also says that it \"targeted Iranian military facilities responsible for attacking U.S. forces.\" The exchange occurred Thursday as U.S. Navy destroyers transited the Strait of Hormuz, U.S. Central Command said in a social media post.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/07/g-s1-120978/u-s-military-intercepted-iran-attacks-navy-ships-hormuz"
+    },
+    "world": {
+      "headline": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+      "summary": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
+      "summary": "The platform said it would remove end-to-end encrypted messages, a major U\u2011turn by parent company Meta.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Massive Alaska megatsunami was second largest ever recorded",
+      "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-07": {
     "top": {
       "headline": "Two Britons self-isolating in UK after leaving hantavirus cruise ship",
