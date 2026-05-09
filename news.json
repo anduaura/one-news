@@ -1,4 +1,48 @@
 {
+  "2026-05-09": {
+    "top": {
+      "headline": "Analysis: Many Labour MPs are blaming the boss for elections body blow",
+      "summary": "Sir Keir Starmer is facing what looks like a coordinated attempt to get him to set a timetable for his departure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Fernandes: The trophies, the assist record and his future",
+      "summary": "No Premier League medal, no Champions League title, but Bruno Fernandes has won other trophies and many accolades, and the FWA footballer of the year is on the brink of setting a record.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cn5p2n3vw42o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Why Trump's efforts to force Iran to concede to U.S. demands aren't working",
+      "summary": "The Virginia Supreme Court has delivered a striking blow to Democrats in the redistricting battle they're waging against Republicans.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/08/nx-s1-5813719/why-trumps-efforts-to-force-iran-to-concede-to-u-s-demands-arent-working"
+    },
+    "world": {
+      "headline": "Trump says Russia and Ukraine to observe three-day ceasefire",
+      "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "The UK is set for a staycation summer - and there are plenty of hidden gems",
+      "summary": "Seasoned staycationers share their favourite spots as Airbnb and Booking.com say interest in UK stays are up on last year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgjpv9pdnpwo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "TikTok scales back AI-generated video descriptions after absurd errors",
+      "summary": "While only rolled out to some users, the feature's bizarre AI-generated descriptions were shared widely.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Massive Alaska megatsunami was second largest ever recorded",
+      "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-08": {
     "top": {
       "headline": "Chris Mason: What the results tell us so far",
