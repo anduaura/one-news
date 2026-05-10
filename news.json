@@ -1,4 +1,48 @@
 {
+  "2026-05-10": {
+    "top": {
+      "headline": "Is Starmer's leadership under serious threat?",
+      "summary": "Downing Street is trying to ignore the challenge from a former minister, but it has raised eyebrows around Westminster.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8d81m665q5o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Hearts fans drunk on drama as intoxicating title race takes twist",
+      "summary": "Hearts' mentality monsters dig deep for a point in a frenetic game at Motherwell that sums up this Scottish Premiership title race for the ages.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cx21xl971yzo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "What to know about the Canvas hack of student data",
+      "summary": "Millions of students in universities and K-12 districts had their data compromised this week as a hack took down Canvas, a classroom management tool used all over the country.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/09/nx-s1-5816931/what-to-know-about-the-canvas-hack-of-student-data"
+    },
+    "world": {
+      "headline": "Virus-hit cruise ship arrives in Tenerife as medics await passengers",
+      "summary": "The BBC's Sarah Rainsford reports from Tenerife where the MV Hondius has arrived, after a deadly hantavirus outbreak.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "The UK is set for a staycation summer - and there are plenty of hidden gems",
+      "summary": "Seasoned staycationers share their favourite spots as Airbnb and Booking.com say interest in UK stays are up on last year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgjpv9pdnpwo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "How sunburn inspired a new way to store energy",
+      "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Massive Alaska megatsunami was second largest ever recorded",
+      "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-09": {
     "top": {
       "headline": "Analysis: Many Labour MPs are blaming the boss for elections body blow",
