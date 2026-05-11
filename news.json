@@ -1,4 +1,48 @@
 {
+  "2026-05-11": {
+    "top": {
+      "headline": "British Steel set to be nationalised, Starmer says",
+      "summary": "The steelworks has been under government control for almost a year, but leglistation to nationalise it will be put forward this week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Biggest VAR call ever? Four chaotic minutes that may define the season",
+      "summary": "The most consequential decision in the history of VAR in the Premier League is played out over four minutes 11 seconds of drama at London Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/c0m2rkwm87po?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Budget-conscious shoppers are feeding a boom in discount groceries",
+      "summary": "Many facing economic pressures and frustrations have begun shopping at budget grocery stores and warehouse clubs in lieu of traditional supermarkets, with priorities shifting in pursuit of good deals.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5716202/discount-groceries-aldi-food-affordability"
+    },
+    "world": {
+      "headline": "US and French nationals test positive for hantavirus after leaving ship",
+      "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "British Steel set to be nationalised, Starmer says",
+      "summary": "The steelworks has been under government control for almost a year, but leglistation to nationalise it will be put forward this week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "How sunburn inspired a new way to store energy",
+      "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Massive Alaska megatsunami was second largest ever recorded",
+      "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-10": {
     "top": {
       "headline": "Is Starmer's leadership under serious threat?",
