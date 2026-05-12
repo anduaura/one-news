@@ -1,4 +1,48 @@
 {
+  "2026-05-12": {
+    "top": {
+      "headline": "Chris Mason: PM hangs on by a thread as party revolts",
+      "summary": "A dam appears to have broken, with Labour MPs posting their public loss of confidence in the PM, our political editor writes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn9py15w5yxo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'Superhuman' managers shouldn't have to ask for help - Beard's family on loss",
+      "summary": "The family of former WSL manager Matt Beard tell BBC Sport about the emotional burden of football management, and the changes they want to see.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/c2lwqyd7z72o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Drive 5 hours or fly 20 minutes? Remote towns suffer from lack of year-round flights",
+      "summary": "A federal program that subsidizes airlines to operate in small and rural communities could have its budget cut in half, leaving parts of the country with no flight options.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/12/nx-s1-5796244/drive-5-hours-or-fly-20-minutes-remote-towns-suffer-from-lack-of-year-round-flights"
+    },
+    "world": {
+      "headline": "Trump says Iran ceasefire is on 'massive life support'",
+      "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "How driving test booking is changing for learner drivers",
+      "summary": "From 12 May, only learner drivers can book their own tests, not instructors.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Not so dusty: How tech is changing woodworking",
+      "summary": "Woodworking shops have been transformed by tech to make tools safer and more precise.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Massive Alaska megatsunami was second largest ever recorded",
+      "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-11": {
     "top": {
       "headline": "British Steel set to be nationalised, Starmer says",
