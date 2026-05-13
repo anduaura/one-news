@@ -1,4 +1,48 @@
 {
+  "2026-05-13": {
+    "top": {
+      "headline": "Watch: Wes Streeting leaves No 10 - minutes after arrival",
+      "summary": "Health Secretary Wes Streeting leaves No 10 less than 20 minutes after arriving for a meeting with the prime minister.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c7v9l6dm43do?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Liverpool owners face dilemma - stick or twist with Slot?",
+      "summary": "Liverpool owners FSG face a dilemma as they consider whether to react to growing fan dissent against Arne Slot, says chief football writer Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cm2p08gllrko?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "FDA Commissioner Marty Makary resigns after tumultuous tenure",
+      "summary": "After a tumultuous 13 months at the helm of the U.S. Food and Drug Administration, Marty Makary has resigned.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/13/nx-s1-5819861/fda-commissioner-marty-makary-resigns-after-tumultuous-tenure"
+    },
+    "world": {
+      "headline": "A decade on, Trump returns to a stronger and more assertive China",
+      "summary": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
+      "summary": "The biggest tech firms are set to sell millions of smart glasses despite growing privacy concerns.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "More than 70 million warnings sent to people seeking child abuse material",
+      "summary": "The messages highlight the illegality of what people are searching for online and direct them towards help.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "White-tailed eagles to be released in Exmoor despite farmer warnings",
+      "summary": "Some farmers fear the reintroduction of the UK's biggest bird of prey will threaten their livestock.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6p26y6d8vo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-12": {
     "top": {
       "headline": "Chris Mason: PM hangs on by a thread as party revolts",
