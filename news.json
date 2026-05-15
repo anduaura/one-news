@@ -1,4 +1,48 @@
 {
+  "2026-05-15": {
+    "top": {
+      "headline": "Analysis: Andy Burnham's route back to Commons is clearer - but can he win in Makerfield?",
+      "summary": "The Greater Manchester mayor faces a messy and bitter by-election battle with Reform UK.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21x2rpm12o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Championship play-off final may be delayed by Spygate hearing",
+      "summary": "The Championship play-off final may not go ahead on Saturday, 23 May as the EFL investigates the Spygate scandal surrounding finalists Southampton.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cyv2nl9vl72o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "'Pocket gardens' give native plants a place to thrive in cities",
+      "summary": "\"Pocket gardens\" of native plant species are becoming more common in urban areas. We tag along with a volunteer tending to tiny gardens in a Washington, D.C., neighborhood.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5779228/pocket-gardens-give-native-plants-a-place-to-thrive-in-cities"
+    },
+    "world": {
+      "headline": "CIA chief visits Cuba as energy crisis worsens",
+      "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "UK borrowing costs rise and pound falls as leadership drama continues",
+      "summary": "Analysts say the moves have been fuelled by concerns a Burnham-led government would increase government borrowing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
+      "summary": "As the jury deliberates, this is what we found out during the weeks-long trial with two tech titans at its heart.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "'Don't swim' at 12 of 14 river bathing sites, as more locations announced",
+      "summary": "Too much bacteria linked to faeces found at almost all England's designated river bathing sites",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzvqq9345o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-14": {
     "top": {
       "headline": "Chris Mason: Potential leadership challengers jostle for position",
