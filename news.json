@@ -1,4 +1,48 @@
 {
+  "2026-05-16": {
+    "top": {
+      "headline": "How Rayner, Streeting and Burnham weakened PM in 12 hours of political drama",
+      "summary": "Three interventions by three senior Labour politicians made for an unforgettable day in British politics.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzjj474ywo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'We crumbled' - another loss, another unwanted record for leaky Liverpool",
+      "summary": "Arne Slot says his Liverpool side \"crumbled\" during their thumping defeat by Aston Villa, as the pressure on him continues to mount.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/c392rp8lwe1o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Supreme Court is death knell for Virginia's Democratic-friendly congressional maps",
+      "summary": "The new map was drawn by Democrats and approved by Virginia voters, but the state Supreme Court declared the referendum null and void because lawmakers failed to follow the proper procedures to get the issue on the ballot.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5823911/supreme-court-virginia-redistricting"
+    },
+    "world": {
+      "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "UK borrowing costs rise and pound falls as leadership drama continues",
+      "summary": "Analysts say the moves have been fuelled by concerns a Burnham-led government would increase government borrowing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "X pledges quicker action on hate and terror content in the UK",
+      "summary": "Ofcom said the commitments were of particular importance after recent crimes targeting Jewish communities in the UK.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Is it safe to swim at England's bathing sites?",
+      "summary": "Signs warning people not to swim are in place at almost all of England's official inland river bathing sites due to concerns the water could be unsafe",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c0q27gn78d1o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-15": {
     "top": {
       "headline": "Analysis: Andy Burnham's route back to Commons is clearer - but can he win in Makerfield?",
