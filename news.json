@@ -1,4 +1,48 @@
 {
+  "2026-05-17": {
+    "top": {
+      "headline": "The UK is churning through leaders. Is the country becoming harder to govern?",
+      "summary": "Discontent with the political class is greater than ever - has the UK become ungovernable?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Chelsea appoint Alonso on four-year deal",
+      "summary": "Former Liverpool midfielder Xabi Alonso becomes the new Chelsea manager on a four\u2011year contract - a day after their FA Cup final defeat to Manchester City.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/ckgpklg078go?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Louisiana Sen. Bill Cassidy loses in Republican primary, does not advance to runoff",
+      "summary": "Sen. Bill Cassidy is one of few remaining Republican senators who voted for President Trump's impeachment after the Jan. 6 attack on the Capitol. Trump endorsed his opponent, Rep. Julia Letlow.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/16/nx-s1-5824533/bill-cassidy-lost-louisiana-primary-letlow-trump"
+    },
+    "world": {
+      "headline": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Robert paid \u00a3726 to skip the driving test waiting list. New laws mean others won't be able to",
+      "summary": "The government is cracking down on third parties who use bots to buy tests and resell them at inflated prices.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "X pledges quicker action on hate and terror content in the UK",
+      "summary": "Ofcom said the commitments were of particular importance after recent crimes targeting Jewish communities in the UK.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Is it safe to swim at England's bathing sites?",
+      "summary": "Signs warning people not to swim are in place at almost all of England's official inland river bathing sites due to concerns the water could be unsafe",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c0q27gn78d1o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-16": {
     "top": {
       "headline": "How Rayner, Streeting and Burnham weakened PM in 12 hours of political drama",
