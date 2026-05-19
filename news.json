@@ -1,4 +1,48 @@
 {
+  "2026-05-19": {
+    "top": {
+      "headline": "Married at First Sight UK rape allegations serious, says government",
+      "summary": "A BBC Panorama investigation revealed allegations that two women had been raped during filming.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Man City set to replace Guardiola with Maresca",
+      "summary": "Enzo Maresca is set to replace Pep Guardiola as Manchester City manager before next season.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cd0pkk1xy23o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "What we know about how the U.S. government uses spyware (and what we don't)",
+      "summary": "Critics of spyware, which can be used to remotely hack into phones, worry the Trump administration is eroding policies that stigmatized the commercial spyware industry.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5826085/spyware-trump-dhs-paragon"
+    },
+    "world": {
+      "headline": "Ebola may be spreading faster than first thought, WHO doctor warns",
+      "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "UK unemployment rate unexpectedly rises",
+      "summary": "The number of UK job vacancies also fell to its lowest level in five years as the initial impact of the Iran war on businesses starts to be seen.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
+      "summary": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Europe's oldest science park could be redeveloped",
+      "summary": "Cambridge Science Park submits plans which could create 20,000 jobs and new public spaces.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8d8rddp1vqo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-18": {
     "top": {
       "headline": "UK companies linked to payments for small-boat crossings, BBC finds",
