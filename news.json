@@ -1,4 +1,48 @@
 {
+  "2026-05-20": {
+    "top": {
+      "headline": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
+      "summary": "A minister confirms talks have taken place but says there will be no mandatory cap on essential food prices.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Boats, fire and a TikTok song - inside Arsenal's title win",
+      "summary": "The inside story of how Mikel Arteta turned Arsenal from 'nearly men' into Premier League winners.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/c9v3jx1jmrwo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Overworked and understaffed: Special ed teachers turn to AI for help",
+      "summary": "A fast-growing number of special educators nationwide are using AI to create customized education plans. Despite the risks, some research shows it could improve the quality of teachers' work.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/20/nx-s1-5810192/special-education-teachers-ai-ieps"
+    },
+    "world": {
+      "headline": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+      "summary": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
+      "summary": "A minister confirms talks have taken place but says there will be no mandatory cap on essential food prices.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Google to release first smart glasses since Google Glass flop",
+      "summary": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Six ways to keep your home and yourself cool in hot weather",
+      "summary": "Six simple things you can do to help keep your house cool when temperatures rise.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-19": {
     "top": {
       "headline": "Married at First Sight UK rape allegations serious, says government",
