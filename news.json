@@ -1,4 +1,48 @@
 {
+  "2026-05-21": {
+    "top": {
+      "headline": "TikTok and YouTube 'not safe enough' for kids, says regulator",
+      "summary": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'We'll go down in history' - Villa's new heroes triumph to end 30-year wait",
+      "summary": "Aston Villa beat Freiburg in Istanbul to win the Europa League, with a new generation of heroes etching their names in the history books.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cn5p6yeql9po?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Spencer Pratt is 'winning the internet,' but can he become mayor of Los Angeles?",
+      "summary": "Pratt, a former reality TV star, is flooding social media with edgy humor, AI slop and combative rhetoric as a way of grabbing attention and winning the vote of the very online. It's a strategy some political experts see as the future of online campaigning.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/21/nx-s1-5827724/spencer-pratt-los-angeles-mayor-ai-slop-manosphere"
+    },
+    "world": {
+      "headline": "US charges Cuba's Ra\u00fal Castro with murder over 1996 downing of two planes",
+      "summary": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "EasyJet boss says summer flights won't  be hit by jet fuel shortages",
+      "summary": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Nvidia's record result fails to impress investors",
+      "summary": "The chip giant reported more stellar results but its shares fell after-hours as investors wonder if it can keep up its pace of growth amid greater competition.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Six ways to keep your home and yourself cool in hot weather",
+      "summary": "Six simple things you can do to help keep your house cool when temperatures rise.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-20": {
     "top": {
       "headline": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
