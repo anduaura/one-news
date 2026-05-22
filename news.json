@@ -1,4 +1,48 @@
 {
+  "2026-05-22": {
+    "top": {
+      "headline": "Parents of Southport survivors say anonymity has erased their girls from the story",
+      "summary": "The BBC has spoken to parents of some of the children who survived the knife attack, who believe they have been given insufficient support because of the anonymity order.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0j2q988x17o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Foden, Palmer, Alexander-Arnold to miss World Cup",
+      "summary": "Phil Foden, Cole Palmer and Trent Alexander-Arnold have not been included in Thomas Tuchel's 26-man England squad for this summer's World Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "What is the 'tarps off' trend that men are engaging in? Find out in the quiz",
+      "summary": "Plus: The L.A. mayoral race, AI court battles, extinct animals and Eurovision!",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/22/g-s1-123264/musk-altman-trump-science-animals-eurovision-news-quiz"
+    },
+    "world": {
+      "headline": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
+      "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Morrisons planning to close 100 stores in next few months",
+      "summary": "It said difficulties had been exacerbated by \"significant cost increases resulting from government policy choices\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Musk's SpaceX postpones Starship launch as mega share sale looms",
+      "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "How do hurricanes and typhoons form and is climate change making them stronger?",
+      "summary": "These powerful tropical storms are generally becoming more intense as the world warms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-21": {
     "top": {
       "headline": "TikTok and YouTube 'not safe enough' for kids, says regulator",
