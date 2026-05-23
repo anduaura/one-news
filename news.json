@@ -1,4 +1,48 @@
 {
+  "2026-05-23": {
+    "top": {
+      "headline": "At least 90 dead in Chinese coal mine explosion, state media reports",
+      "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'Unselfish' over 'ego' - what do leaks say about Tuchel's England?",
+      "summary": "BBC Sport explores why the whole world knew the England World Cup squad before it was announced, and what Thomas Tuchel's response says about England's culture.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cg4pgve33kyo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "SpaceX launches its biggest, most beefed-up Starship yet on a test flight",
+      "summary": "The mega rocket made its debut two days after SpaceX CEO Elon Musk announced he's taking the company public. NASA Administrator Jared Isaacman said Starship is now one step closer to the moon.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/23/nx-s1-5832402/spacex-biggest-starship-flight"
+    },
+    "world": {
+      "headline": "At least 90 dead in Chinese coal mine explosion, state media reports",
+      "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+      "summary": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "AI may speed up search for drugs to treat brain conditions",
+      "summary": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "The space race to create gym equipment for future astronauts",
+      "summary": "Scientists are attempting to build exercise equipment to be used on future space flights.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-22": {
     "top": {
       "headline": "Parents of Southport survivors say anonymity has erased their girls from the story",
