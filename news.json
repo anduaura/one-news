@@ -1,4 +1,48 @@
 {
+  "2026-05-24": {
+    "top": {
+      "headline": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
+      "summary": "Speaking to the BBC\u2019s Laura Kuenssberg, the girl, who is now 16, said: \"What was the point in putting me through that?\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Why the stakes are so high for Spurs and West Ham",
+      "summary": "Why the stakes could not be higher in Tottenham and West Ham's relegation shootout.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cpqpyprner9o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Secret Service fatally shoots suspect outside White House checkpoint, bystander wounded",
+      "summary": "The suspect began shooting at posted officers, who returned fire and hit the shooter, the Secret Service said. A bystander was also shot, a law enforcement official said, but it's unclear by whom.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house"
+    },
+    "world": {
+      "headline": "Suspect killed after opening fire on Secret Service near White House",
+      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "'Six eggs used to be \u00a31' - why everyday essentials cost so much more now",
+      "summary": "Six supermarket brand eggs cost \u00a31 in 2022. How much are they now, why have they gone up, and is anyone profiteering?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "AI may speed up search for drugs to treat brain conditions",
+      "summary": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "The space race to create gym equipment for future astronauts",
+      "summary": "Scientists are attempting to build exercise equipment to be used on future space flights.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-23": {
     "top": {
       "headline": "At least 90 dead in Chinese coal mine explosion, state media reports",
