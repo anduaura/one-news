@@ -1,4 +1,48 @@
 {
+  "2026-05-26": {
+    "top": {
+      "headline": "Four killed as school minibus collides with train in Belgium",
+      "summary": "Seven children, a chaperone and the minibus driver were on a level crossing when the accident happened, broadcaster VRT reported.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'He showed why good managers need time' - who are this season's over-achievers?",
+      "summary": "Tony Pulis explains which Premier League managers have impressed him this season and, down the divisions, who else stands out.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/c2d27lw7ywjo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "In West Texas, an unlikely alliance stands against extending the border wall",
+      "summary": "An unusual coalition of people across the political spectrum have banded together to rally against a border wall in the Big Bend.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/26/nx-s1-5782625/texas-trump-mexico-border-wall-big-bend-impact-environment"
+    },
+    "world": {
+      "headline": "US launches new strikes on Iran, targeting missile sites and boats",
+      "summary": "US Central Command says the strikes were taken in \"self-defence\". It comes as senior Iranian negotiators are in Qatar for talks to end the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Next boss warns of 'dramatic' fall in entry-level jobs",
+      "summary": "Lord Wolfson tells the BBC Next now typically receives double the number of applicants for one role than it did two years ago.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "'Overwhelming consensus' that screen time harms children, top doctors say",
+      "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Britain's protected birds of prey still being shot, trapped and poisoned, says RSPB",
+      "summary": "The charity says more than half of attacks happened on or near land managed for game shooting.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjep159x1njo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-25": {
     "top": {
       "headline": "Deal with US not imminent, Iran says",
