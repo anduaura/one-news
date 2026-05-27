@@ -1,4 +1,48 @@
 {
+  "2026-05-27": {
+    "top": {
+      "headline": "Energy bills to rise for millions as impact of Iran war hits",
+      "summary": "A household using a typical amount of energy will pay \u00a3221 a year more, under the regulator's new price cap.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Nuno to stay as West Ham boss after relegation",
+      "summary": "Nuno Espirito Santo will stay on as West Ham manager to lead their fight to get back to the Premier League at the first attempt, the club says.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/c4g4y0px4gyo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "For far-right extremists, the rise of a new enemy: women",
+      "summary": "Misogyny is an increasing factor in far-right attacks, but it often goes unnoticed.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/27/nx-s1-5835586/san-diego-mosque-anti-women"
+    },
+    "world": {
+      "headline": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "summary": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Energy bills to rise for millions as impact of Iran war hits",
+      "summary": "A household using a typical amount of energy will pay \u00a3221 a year more, under the regulator's new price cap.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
+      "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Nasa unveils next steps to build permanent Moon base",
+      "summary": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-26": {
     "top": {
       "headline": "Four killed as school minibus collides with train in Belgium",
