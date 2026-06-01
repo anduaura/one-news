@@ -1,4 +1,48 @@
 {
+  "2026-06-01": {
+    "top": {
+      "headline": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+      "summary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Record-holder Milner retires after 24-year career",
+      "summary": "Former England international James Milner announces his retirement after a 24-year Premier League career.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/clyp4jmyym0o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "One by one, U.S. civil rights agency dismantles tools to fight discrimination",
+      "summary": "The EEOC is seeking to overturn rules created decades ago to tackle discrimination in employment. The Trump administration says those rules have led to more discrimination \u2014against white people.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5827069/trump-eeoc-discrimination-dei-data"
+    },
+    "world": {
+      "headline": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+      "summary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Put a \u00a35 deposit on vapes to stop fires, say waste companies",
+      "summary": "The industry body for waste companies says a refundable deposit would help boost vape recycling, but others disagree.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g4vqex028o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "'Controversial' North Korean invasion setting for next Call of Duty game",
+      "summary": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "'Killer fungus' could be good news for habitats decimated by invasive moss",
+      "summary": "A newly discovered species raises hope that some native British habitats could be restored.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g48jy4j1yo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-05-31": {
     "top": {
       "headline": "Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit",
