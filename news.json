@@ -1,4 +1,48 @@
 {
+  "2026-06-02": {
+    "top": {
+      "headline": "Murdered student Henry Nowak told police 'I can't breathe' while handcuffed",
+      "summary": "The Independent Office for Police Conduct says an investigation into the police actions is ongoing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crlpyw05l75o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Southampton owner will not sack Eckert over Spygate",
+      "summary": "Southampton owner Dragan Solak tells BBC Sport he will not sack Tonda Eckert, despite the \"mistake\" the head coach made when authorising a spying campaign against rival Championship clubs.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cq6pn58pmn4o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Pentagon policy illegally banned transgender troops from military, appeals court rules",
+      "summary": "A divided panel of appeals court judges has ruled that a Trump administration policy illegally banned transgender troops from military service.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/02/g-s1-125323/pentagon-transgender-troops"
+    },
+    "world": {
+      "headline": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
+      "summary": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
+      "summary": "The AI company behind Claude is set to offer the public the chance to buy and sell shares in the firm later this year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "How 'confused' AI rollout hurts firms and baffles staff",
+      "summary": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "'Killer fungus' could be good news for habitats decimated by invasive moss",
+      "summary": "A newly discovered species raises hope that some native British habitats could be restored.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g48jy4j1yo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-01": {
     "top": {
       "headline": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
