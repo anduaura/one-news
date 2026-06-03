@@ -1,4 +1,48 @@
 {
+  "2026-06-03": {
+    "top": {
+      "headline": "Royal Navy helicopter crashes into field",
+      "summary": "The Ministry of Defence says an investigation into the incident is underway.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "The anatomy of a Golden Boot winner - and who could win it in 2026?",
+      "summary": "A look at the common attributes of World Cup Golden Boot winners and the claims of the leading 2026 candidates examined.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Morning news brief",
+      "summary": "A look at the results from Tuesday's primaries, acting AG says Justice Department is scrapping controversial \"anti-weaponization\" fund, housing official named acting national intelligence director.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/03/nx-s1-5842913/morning-news-brief"
+    },
+    "world": {
+      "headline": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
+      "summary": "Kuwait says one person is dead after drones hit civilian buildings including its international airport.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "US announces new tariffs over forced labour concerns",
+      "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Meta won't track its workers' clicks - but only for half an hour at a time",
+      "summary": "According to an internal memo, new controls will allow employees to pause the data collection for \"up to 30 minutes at a time\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Next El Ni\u00f1o could be strongest in decades",
+      "summary": "A new phase of the natural El Ni\u00f1o weather pattern could begin in a matter of weeks, the UN has warned, boosting temperatures on a planet already under strain from climate change.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c8e8zzw30zyo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-02": {
     "top": {
       "headline": "Murdered student Henry Nowak told police 'I can't breathe' while handcuffed",
