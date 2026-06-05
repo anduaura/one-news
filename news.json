@@ -1,4 +1,48 @@
 {
+  "2026-06-05": {
+    "top": {
+      "headline": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
+      "summary": "A public spending watchdog examines the property arrangements of royals including Andrew Mountbatten-Windsor.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Arsenal trio & Fernandes on PFA men's player of the year shortlist",
+      "summary": "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for the Professional Footballers' Association men's player of the year award.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Senate passes $70B immigration enforcement bill without limits on Trump settlement fund",
+      "summary": "The Senate passed legislation to fund President Donald Trump's immigration enforcement agencies early Friday morning, after weeks of delays and fierce backlash to an unrelated $1.776 billion settlement fund that threatened to derail the bill.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5847589/senate-passes-immigration-enforcement-bill-without-limits-on-trump-settlement-fund"
+    },
+    "world": {
+      "headline": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "We need to stop AI developing without humans, says Anthropic co-founder",
+      "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
+      "summary": "As the price of Bitcoin sinks once more, here's a guide to some of the trickiest crypto terms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Mangrove forests are healing after decades of human destruction",
+      "summary": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-04": {
     "top": {
       "headline": "Avoid 'reactive' police reforms after Nowak murder, senior black officer warns",
