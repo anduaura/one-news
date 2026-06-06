@@ -1,4 +1,48 @@
 {
+  "2026-06-06": {
+    "top": {
+      "headline": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+      "summary": "The US vice-president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+      "summary": "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage for him to prove he is now the best?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Democrat Xavier Becerra wins the top spot in November's race for California governor",
+      "summary": "Former Health and Human Services Secretary Xavier Becerra has clinched the top spot on California's ballot for governor. With millions of ballots still to be counted, his November challenger is unknown.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/05/nx-s1-5845847/xavier-becerra-california-governor-hilton-steyer-newsom"
+    },
+    "world": {
+      "headline": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "We need to stop AI developing without humans, says Anthropic co-founder",
+      "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Trump to meet AI leaders to discuss US investment in their companies",
+      "summary": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Astronauts return to ISS after sheltering during air leak repair attempt",
+      "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-05": {
     "top": {
       "headline": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
