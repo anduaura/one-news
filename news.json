@@ -1,4 +1,48 @@
 {
+  "2026-06-08": {
+    "top": {
+      "headline": "Iran releases footage of missiles launched at Israel",
+      "summary": "Iran said its attacks were \"the beginning of a full week of continuous strikes.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Inside the fairytale journey of Scotland captain Robertson",
+      "summary": "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become Scotland's most capped men's player.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "The red state, blue state divide is real. But it's driven by more than just politics",
+      "summary": "Recent research suggests there's more going on with \"ideological sorting\" than simply moving to places that match one's politics. It's often one of many deciding factors, such as taxes or safety.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/08/nx-s1-5831305/the-red-state-blue-state-divide-is-real-but-its-driven-by-more-than-just-politics"
+    },
+    "world": {
+      "headline": "At least 19 dead after major earthquake strikes southern Philippines",
+      "summary": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Stock markets fall on tech plunge and renewed Middle East attacks",
+      "summary": "Markets in Europe and Asia were hit by a tech sell-off, and oil rises as Iran and Israel launch attacks at each other",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Starmer tells Apple and Google to ban nude images on children's phones",
+      "summary": "Firms will be expected to activate built-in features to stop children accessing sexually explicit images.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Rare footage captured of Great White shark in Mediterranean Sea",
+      "summary": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-07": {
     "top": {
       "headline": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
