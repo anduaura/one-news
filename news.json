@@ -1,4 +1,48 @@
 {
+  "2026-06-10": {
+    "top": {
+      "headline": "Watch: Residents flee as cars and houses burn in Belfast",
+      "summary": "Police and firefighters help families leave their homes amid disorder following a knife attack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c5yzpg514v0o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Who will win the World Cup? BBC pundits make their predictions",
+      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "ICE denies having a protester database. But a letter to Congress sheds more light",
+      "summary": "In a previously unpublicized letter to Congress, the newly-departed head of ICE said the agency collects data on people suspected of potentially unlawful activity, which could include protesters.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5843159/ice-protester-database-dhs"
+    },
+    "world": {
+      "headline": "Inside Myanmar, rebels are losing ground as military forces men into army",
+      "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Bill debt soars but many don't know help is available",
+      "summary": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Kalshi to make some users reveal job details to tackle insider trading",
+      "summary": "After issues with insider trading, the prediction betting platform is adding new rules.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Nasa names next astronauts for Artemis Moon programme",
+      "summary": "Nasa names its next Artemis crew, though they will not be walking on the Moon or even going anywhere near it.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-09": {
     "top": {
       "headline": "Man arrested on suspicion of attempted murder after 'brutal' knife attack in Belfast",
