@@ -1,4 +1,48 @@
 {
+  "2026-06-11": {
+    "top": {
+      "headline": "Nearly 3,000 patients a day in England face corridor care in NHS",
+      "summary": "New data reveals sheer scale of patients in England being treated in unsafe and undignified make-shift areas.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3657re2epo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Wolves sack Edwards after seven months",
+      "summary": "Wolves sack head coach Rob Edwards just seven months after appointing him.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cqx1w53y1qno?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Along the 7 train in Queens, World Cup fans welcome the 'beautiful game'",
+      "summary": "The 2026 World Cup is being played in New Jersey, but in Queens, New York, home to immigrants from all over the world, soccer is not just a sport. It's a way of life.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5850750/world-cup-new-york-queens-7-train"
+    },
+    "world": {
+      "headline": "US and Iran exchange strikes across Middle East for second day in a row",
+      "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Ryanair investigated over charging parents to sit with children",
+      "summary": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Social media on trial: Four important cases to watch",
+      "summary": "Social media firms face thousands of lawsuits, the BBC looks at four which could be significant.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Six ways to keep your home and yourself cool in hot weather",
+      "summary": "Six simple things you can do to help keep your house cool when temperatures rise.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-10": {
     "top": {
       "headline": "Watch: Residents flee as cars and houses burn in Belfast",
