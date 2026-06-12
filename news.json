@@ -1,4 +1,48 @@
 {
+  "2026-06-12": {
+    "top": {
+      "headline": "Chris Mason: Dissent fizzes again at the top of the Labour Party",
+      "summary": "The resignations of the defence secretary and armed forces minister pile the pressure further on the PM's leadership.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx26njd8v4mo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Watford great Jackett dies aged 64",
+      "summary": "Former Watford and Swansea City manager and Wales international Kenny Jackett has died at the age of 64.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cqj1z2wqkw2o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Which billionaire said they learned a 'significant lesson' this week? The quiz knows",
+      "summary": "This week, Knicks fans had a big win after a big loss; fans of inflation were delighted and World Cup fans went broke. How will quiz fans fare?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/12/g-s1-127424/trump-knicks-musk-world-cup-apple-news-quiz"
+    },
+    "world": {
+      "headline": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+      "summary": "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch",
+      "summary": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Who is Elon Musk and what is his net worth?",
+      "summary": "The boss of X, Tesla and SpaceX is the world's richest person - and might even be about to become a trillionaire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "What is El Ni\u00f1o and why could it mean record temperatures?",
+      "summary": "Global temperatures are expected to rise in the coming months as El Ni\u00f1o begins.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-11": {
     "top": {
       "headline": "Nearly 3,000 patients a day in England face corridor care in NHS",
