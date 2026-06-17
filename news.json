@@ -1,4 +1,48 @@
 {
+  "2026-06-17": {
+    "top": {
+      "headline": "PM warns Burnham against immediate leadership challenge if he wins by-election",
+      "summary": "Keir Starmer says Labour should focus on a subsequent Manchester mayoral race if Andy Burnham wins in Makerfield.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Can Bellingham become England's superstar once more at the World Cup?",
+      "summary": "After tough love from England head coach Thomas Tuchel, Jude Bellingham's World Cup build-up points to a special talent who can be a key figure in their quest to win the World Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "'Rejected': How federal prisons stonewall grievances and deny care for years",
+      "summary": "People who go to prison keep one important right \u2014 to file a grievance over their treatment: from abuse to denied medical care. But in the vast majority of cases, those efforts go nowhere, according to an analysis of federal data by The Marshall Project and NPR.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5343603/prison-lawsuits-grievance-denial-investigation"
+    },
+    "world": {
+      "headline": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "summary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Inflation unexpectedly steady as food price rises slow",
+      "summary": "Higher petrol prices were offset by slower price rises for meat, dairy and vegetables, according to the ONS.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Five big questions about the UK's under-16s social media ban",
+      "summary": "A ban is coming - but it's still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "What is El Ni\u00f1o and why could it mean record temperatures?",
+      "summary": "Global temperatures are expected to rise in the coming months as El Ni\u00f1o begins.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-16": {
     "top": {
       "headline": "Starmer pleased 'justice has been done' after arson attacks",
