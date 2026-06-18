@@ -1,4 +1,48 @@
 {
+  "2026-06-18": {
+    "top": {
+      "headline": "What's in the US-Iran agreement?",
+      "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "This was an England we haven't seen for years - and it was fun",
+      "summary": "Fun to watch and full of intent - this was an England we have not seen for years, writes Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cwylqvgne7lo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Poll: Most Americans have the summer blues about Trump and the economy",
+      "summary": "A new NPR/PBS News/Marist poll finds a record low share of Americans approve of President Trump's job performance and his handling of the economy heading into the summer before a key midterm election.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5861720/trump-economy-gas-prices-midterms-polling"
+    },
+    "world": {
+      "headline": "What's in the US-Iran agreement?",
+      "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Number of job vacancies hits five year-low",
+      "summary": "Latest figures suggest companies are becoming more cautious about taking on new staff.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+      "summary": "The Amazon founder, who now has robotics and space travel companies, thinks AI will create a labour shortage.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Simpler, older version of Stonehenge found three miles from famous site",
+      "summary": "The structure consisted of two posts that lined up with the solstices 5,000 years ago.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-17": {
     "top": {
       "headline": "PM warns Burnham against immediate leadership challenge if he wins by-election",
