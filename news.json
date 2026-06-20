@@ -1,4 +1,48 @@
 {
+  "2026-06-20": {
+    "top": {
+      "headline": "'People flew from their seats': Passengers describe how collision unfolded",
+      "summary": "The East of England Ambulance Service says nearly 90 people were injured, over 30 of them seriously.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Flawed but relentless Scotland show themselves as men of substance",
+      "summary": "Morocco threatened to blow Scotland away early on, but Steve Clarke's squad showed their resilience despite defeat, writes Tom English.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "'Grandmother of Juneteenth' celebrates freedom, 2.5 miles at a time",
+      "summary": "Opal Lee is known as the Grandmother of Juneteenth. NPR's Mary Louise Kelly talked with her in 2024 about her activism, and her hopes for the future.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5864214/grandmother-of-juneteenth-celebrates-freedom-2-5-miles-at-a-time"
+    },
+    "world": {
+      "headline": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Plans to end gazumping with binding agreements in house sales shake-up",
+      "summary": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "New video game console aims to get kids moving",
+      "summary": "The cube-shaped console will cost \u00a3269 (\u20ac319) when it is released on 22 June in the UK and Ireland.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Simpler, older version of Stonehenge found three miles from famous site",
+      "summary": "The structure consisted of two posts that lined up with the solstices 5,000 years ago.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-19": {
     "top": {
       "headline": "Chris Mason: Emphatic win leaves Starmer with big decision on leadership",
