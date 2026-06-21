@@ -1,4 +1,48 @@
 {
+  "2026-06-21": {
+    "top": {
+      "headline": "Leadership uncertainty 'enormously disruptive', former top civil servant warns",
+      "summary": "Speaking on Sunday with Laura Kuenssberg, the former Cabinet Secretary said leadership transitions are \"enormously disruptive\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpq3n5g218no?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Meet the record-equalling keeper who helped Curacao make history",
+      "summary": "Curacao's Eloy Room makes a record-equalling 15 saves to help his tiny island nation to a first World Cup point against Ecuador.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Don Gonyea's front-row seat to presidential history",
+      "summary": "As Don Gonyea covered the launch of the Barack Obama Presidential Center in Chicago this week, he recalled key moments from presidential library openings he has covered throughout his career.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5863152/don-gonyeas-front-row-seat-to-presidential-history"
+    },
+    "world": {
+      "headline": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Plans to end gazumping with binding agreements in house sales shake-up",
+      "summary": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Why an AI company cleaned my New York City apartment for free",
+      "summary": "An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Simpler, older version of Stonehenge found three miles from famous site",
+      "summary": "The structure consisted of two posts that lined up with the solstices 5,000 years ago.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-20": {
     "top": {
       "headline": "'People flew from their seats': Passengers describe how collision unfolded",
