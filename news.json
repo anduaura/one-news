@@ -1,4 +1,48 @@
 {
+  "2026-06-23": {
+    "top": {
+      "headline": "Can you keep your kids off school or refuse to work during a heatwave?",
+      "summary": "As temperatures increase significantly over the next few days, these are your rights.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "A Golden Boot race for the ages - but who will come out on top?",
+      "summary": "It is fast turning into a Golden Boot race for the ages as the world's best strikers star at the World Cup. But who will come out on top?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "After losing jobs for posting about Charlie Kirk, some are getting six figure payouts",
+      "summary": "While workers, who were employees in government or public institutions, feel vindicated by how their lawsuits concluded, they are still grappling with the aftermath.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5856300/charlie-kirk-assassination-jobs-social-media-payouts-fired-first-amendment-settlements"
+    },
+    "world": {
+      "headline": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
+      "summary": "The Competition and Markets Authority said StubHub must refund 50,000 customers and pay a fine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+      "summary": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Seabed damaged by fishing showing signs of recovery",
+      "summary": "Campaigners say improvements to the area trashed by illegal dredging show that marine protection works.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20y9zlzwyzo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-22": {
     "top": {
       "headline": "Starmer is stepping down - what could happen next?",
