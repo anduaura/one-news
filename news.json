@@ -1,4 +1,48 @@
 {
+  "2026-06-24": {
+    "top": {
+      "headline": "The UK's summers are getting hotter - but how prepared are we?",
+      "summary": "Based on current trends parts of the UK are set to see 40C summers regularly within a couple of decades.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'VAR went for a coffee' - should Ghana have had penalty against England?",
+      "summary": "England fans have been left frustrated by the goalless draw against Ghana, but were Thomas Tuchel's side fortunate not to have given away a penalty?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Does Motown's legacy endure for Detroit's younger generations?",
+      "summary": "Motown --- the music and the label -- is central to the identity of Detroiters. The music is woven together with the city's legacy. But do younger generations feel the same way?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5855437/does-motowns-legacy-endure-for-detroits-younger-generations"
+    },
+    "world": {
+      "headline": "France braces for another day of sweltering heat as Europe heatwave spreads",
+      "summary": "The heatwave is expected to spread to other parts of western Europe on Wednesday, before extending eastwards over the weekend.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "The economic challenges facing the next prime minister",
+      "summary": "Though the person in charge of the country will change, the fiscal issues remain the same.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Google's YouTube settles social media addiction case with teen",
+      "summary": "The 15-year-old plaintiff's case against three other tech giants begins next month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Environmental plan is largely off track, warns watchdog",
+      "summary": "A report says many of the measures are \"well within the reach\" of government and it was a matter of \"moving away from planning into delivery\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1e0zqvyxo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-23": {
     "top": {
       "headline": "Can you keep your kids off school or refuse to work during a heatwave?",
