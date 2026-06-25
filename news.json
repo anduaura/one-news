@@ -1,4 +1,48 @@
 {
+  "2026-06-25": {
+    "top": {
+      "headline": "Watch: Moment earthquakes hit airport and buildings in Caracas",
+      "summary": "Video filmed by BBC reporters, contributors and locals shows the aftermath, as frantic residents evacuate.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Vinicius Jr stops fun and leaves Scots down... but are they out?",
+      "summary": "Scotland's party stops at the hands of Brazil in Miami, but might they still find themselves in the last 32?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Long before the World Cup, Ukrainian immigrants built a soccer powerhouse in Philly",
+      "summary": "World Cup games are underway in Philadelphia. Long before Americans caught the world's soccer craze, Ukrainian migrants made Philly a soccer town. Today, the sport helps sustain their culture.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5845366/world-cup-ukraine-immigrants-philadelphia-soccer-leagues"
+    },
+    "world": {
+      "headline": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Reeves backs Burnham to become next prime minister",
+      "summary": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "summary": "Rockstar's sixth game in the franchise is set to be the biggest game release of the year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+      "summary": "Heat records were broken when temperatures soared across southern England on Wednesday afternoon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-24": {
     "top": {
       "headline": "The UK's summers are getting hotter - but how prepared are we?",
