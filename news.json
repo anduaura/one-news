@@ -1,4 +1,48 @@
 {
+  "2026-06-26": {
+    "top": {
+      "headline": "King becomes first monarch to reveal tax bill as royal public funding to double to \u00a3100m",
+      "summary": "New figures show the monarch paid \u00a312.9m in tax last year, but do not give any detailed breakdown of how that tax was calculated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Why are World Cup underdogs doing so well?",
+      "summary": "Are the surprise results achieved by lower-ranked teams in the World Cup a matter of luck - or clever planning and execution?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr5jedp7ppyo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "'We are with you, Venezuela': Houston community rallies after deadly earthquakes",
+      "summary": "Venezuelans living in the U.S organize donation drives in response to the devastating earthquakes.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5871147/venezuela-houston-earthquake-katy"
+    },
+    "world": {
+      "headline": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+      "summary": "At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Power banks and vapes now biggest fire risk on planes",
+      "summary": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Teens who hacked TfL were known to police years before cyber-attack",
+      "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "In pictures: Britain swelters in record-breaking June heat",
+      "summary": "A rare red weather warning is in place as extreme temperatures continue across much of the UK.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5vq3q2g19o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-25": {
     "top": {
       "headline": "Watch: Moment earthquakes hit airport and buildings in Caracas",
