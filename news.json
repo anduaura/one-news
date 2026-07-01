@@ -1,4 +1,48 @@
 {
+  "2026-07-01": {
+    "top": {
+      "headline": "Woman raped by Superdry co-founder tells BBC she was working for him at the time",
+      "summary": "She described feeling fear and dread as she returned to her job, working for James Holder, after the attack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Time for Tuchel to show hand as England enter World Cup danger zone",
+      "summary": "England coach Thomas Tuchel must now play his strongest hand as he enters the danger zone in a World Cup of shocks, says chief football writer Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "A federal law bans late voter roll purges. Republicans are pushing to reinterpret it",
+      "summary": "There's a ban on most states systematically purging voter rolls within 90 days before Election Day. Republicans are pushing courts to reinterpret that longstanding protection for eligible voters.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5859333/voter-roll-purge-supreme-court"
+    },
+    "world": {
+      "headline": "Trump made more than $1bn from crypto in first year back in office",
+      "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Trump made more than $1bn from crypto in first year back in office",
+      "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "E-scooters being advertised for commuting despite UK road ban",
+      "summary": "A Press Association investigation found major retailers advertising e-scooters for \"commuting\" and \"urban riding\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Dangerous heatwave to hit US ahead of holiday weekend",
+      "summary": "North America will bake in extreme temperatures amid celebrations for the United States' 250th birthday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-06-30": {
     "top": {
       "headline": "Chris Mason: Burnham revels on public stage but has little time to hammer ideas into shape",
