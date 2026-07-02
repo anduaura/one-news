@@ -1,4 +1,48 @@
 {
+  "2026-07-02": {
+    "top": {
+      "headline": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Genuine superstar Kane produces his biggest England moment",
+      "summary": "Harry Kane's England career is filled with great moments - his World Cup rescue act against DR Congo in Atlanta is his greatest, says chief football writer Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Federal civil rights data holds schools accountable. Under Trump, it's 6 months late",
+      "summary": "The Education Department has long collected civil rights data about things like bullying, harassment and disability services in schools, but it hasn't made the latest information public.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5859422/civil-rights-data-students-education"
+    },
+    "world": {
+      "headline": "At least 13 killed in 'most massive' Russian attack on Kyiv",
+      "summary": "Kyiv's mayor declares a day of mourning after the 'most massive attack on the capital' by Russia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
+      "summary": "Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Don't expect trackers to save your stolen car, experts say",
+      "summary": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "England's warmest June on record following historic heatwave",
+      "summary": "England saw its warmest June since records began in 1865 and the second warmest for the whole of the UK according to data just released by the Met Office.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-01": {
     "top": {
       "headline": "Woman raped by Superdry co-founder tells BBC she was working for him at the time",
