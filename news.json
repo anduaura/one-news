@@ -1,4 +1,48 @@
 {
+  "2026-07-03": {
+    "top": {
+      "headline": "NHS to reward people who walk 30 minutes a day",
+      "summary": "The \"marathon a month\" scheme, developed with former Olympic medallist Sir Brendan Foster, will launch early next year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Huge Snicko VAR call prolongs Ronaldo's last dance but ends Modric's",
+      "summary": "Veteran forward Cristiano Ronaldo gets another day on the World Cup stage after Croatia are denied a late equaliser by a huge VAR call.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "How young people feel about American identity, on the nation's 250th birthday",
+      "summary": "Listen to the best student podcasts about what \"life, liberty and the pursuit of happiness\" means for young people today.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5869537/student-podcast-challenge-america-250"
+    },
+    "world": {
+      "headline": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "summary": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "'Nobody wants a random dish': How much should you gift at a wedding?",
+      "summary": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "AI is 'not smart' so what's next in artificial intelligence?",
+      "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Could a heatwave hit Taylor Swift's wedding?",
+      "summary": "Simon King reports on the dangerous heat threatening North America.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c75ykqwgwl5o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-02": {
     "top": {
       "headline": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
