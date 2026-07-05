@@ -1,4 +1,48 @@
 {
+  "2026-07-05": {
+    "top": {
+      "headline": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Why England won't fear Mexico or the Azteca - Shearer",
+      "summary": "Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Trump closes out July Fourth with a speech and fireworks",
+      "summary": "After a day of extreme heat and canceled events, President Trump closes out America's 250th birthday with a long speech and a fireworks display.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5879179/trump-closes-out-july-fourth-with-a-speech-and-fireworks"
+    },
+    "world": {
+      "headline": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+      "summary": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Parents warned not to publicly share children\u2019s images amid AI abuse risks",
+      "summary": "The NCA says there is a growing threat of children's images being used to create child abuse material.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Evacuations in Guam as super typhoon Bavi approaches",
+      "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-04": {
     "top": {
       "headline": "Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning",
