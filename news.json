@@ -1,4 +1,48 @@
 {
+  "2026-07-06": {
+    "top": {
+      "headline": "Buckingham Palace says Prince Harry will not stay there despite his team announcing he would",
+      "summary": "Royal sources say the Duke of Sussex had not responded to the offer of accommodation at a Royal residence by the deadline last week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "An incredible night when England heroes were made",
+      "summary": "On a spine-tingling night of drama, emotion and pure theatre in one of sport's most atmospheric arenas, England delivered one of their greatest performances.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Marriage used to be a glide path to citizenship. Now there are more speed bumps",
+      "summary": "Spouses of U.S. citizens have traditionally had a special place in immigration law. That's no longer the case, according to the administration and immigration lawyers.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/06/nx-s1-5850322/trump-marriage-citizenship-spouse-scrutiny-policy-change"
+    },
+    "world": {
+      "headline": "Ukraine warns of interceptor missile shortage as 15 killed in Kyiv region",
+      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "ITV sells media and entertainment arm to Sky for \u00a31.6bn",
+      "summary": "The two broadcasters say the deal will create a strong rival to global streaming giants.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Parents warned not to publicly share children\u2019s images amid AI abuse risks",
+      "summary": "The NCA says there is a growing threat of children's images being used to create child abuse material.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-05": {
     "top": {
       "headline": "US marks 250th birthday with fireworks, flyovers and extreme weather",
