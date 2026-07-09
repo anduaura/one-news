@@ -1,4 +1,48 @@
 {
+  "2026-07-09": {
+    "top": {
+      "headline": "Why heatwaves hit women harder",
+      "summary": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "How Kane and Haaland compare - who would you pick?",
+      "summary": "Two of the world's best strikers - Harry Kane and Erling Haaland - meet in the World Cup quarter-finals - but who would you rather have?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "A Florida airport is officially renamed for Trump. What does he stand to gain?",
+      "summary": "Trump is the first president to have an airport named after him while in office. The Trump Organization says he won't get royalties from the renaming, but legal experts see potential loopholes.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5825868/trump-airport-florida-pbi-trademark"
+    },
+    "world": {
+      "headline": "US and Iran trade strikes for second night in a row",
+      "summary": "Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Why electric cars cost more to insure - and what's being done about it",
+      "summary": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Outcry as Meta lets users make AI images from public Instagram profile pics",
+      "summary": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "How beachgoers are turning snaps into science",
+      "summary": "Scientists hope to learn more about the impact of climate change on coasts through people's photos.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-08": {
     "top": {
       "headline": "Farage's rivals rule out standing in Clacton by-election",
