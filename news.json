@@ -1,4 +1,48 @@
 {
+  "2026-07-10": {
+    "top": {
+      "headline": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
+      "summary": "The famous artefact depicting events leading up to the Norman Conquest of England will go on display in September.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "France cruise into semi-finals - could this be the best Les Bleus ever?",
+      "summary": "World Cup winners in 1998 and 2018, France have created another special team and in beating Morocco showed why they are favourites to win the 2026 competition.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Waymo called the cops on teen riders, raising privacy concerns",
+      "summary": "Two 15-year-olds were allegedly drinking alcohol and shooting toy guns from a driverless taxi when the company disabled it and alerted police.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/10/nx-s1-5886113/waymo-police-privacy-driverless-autonomous-vehicles"
+    },
+    "world": {
+      "headline": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+      "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+      "summary": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+      "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "How cows are helping one of Britain's rarest butterflies",
+      "summary": "The high brown fritillary needs bracken and a certain violet to thrive - but everything in moderation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c621jgepljvo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-09": {
     "top": {
       "headline": "Why heatwaves hit women harder",
