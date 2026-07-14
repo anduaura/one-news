@@ -1,4 +1,48 @@
 {
+  "2026-07-14": {
+    "top": {
+      "headline": "Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation",
+      "summary": "Home Secretary Shabana Mahmood confirmed the suspect was not known to the government's anti-terrorism programme in an update to MPs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Who will win the World Cup? The view from the semi-finalists",
+      "summary": "BBC Sport speaks to journalists and fans from the World Cup's four semi-finalists to see who they think will win the tournament.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "The star-studded World Cup semifinals kick off with France vs. Spain",
+      "summary": "The expanded World Cup allowed FIFA to introduce a new seeding system that placed the world's top teams in opposite corners of the knockout bracket. Now, the semifinals are both heavyweight matchups.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5891860/2026-world-cup-fifa-spain-france-argentina-england-semifinals"
+    },
+    "world": {
+      "headline": "Thailand probes possible negligence in deadly Bangkok bar fire",
+      "summary": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "The mysterious crypto firm backed by Farage's biggest donor",
+      "summary": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Is tracking your food purchases good for your health?",
+      "summary": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "summary": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-13": {
     "top": {
       "headline": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
