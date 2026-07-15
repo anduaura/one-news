@@ -1,4 +1,48 @@
 {
+  "2026-07-15": {
+    "top": {
+      "headline": "Midnight social media curfew proposed for UK teens aged 16 and 17 - but they can opt out",
+      "summary": "The government also wants 'addictive' app features such as auto-play and infinite scroll to be set to be disabled.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "I still feel pain of '98 but this can be different for England - Shearer",
+      "summary": "England's defeat by Argentina at the 1998 World Cup still burns deep for Alan Shearer, but he explains why this team can take their chance to change their lives forever.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Mystery bidder buys T. rex nicknamed 'Gus' for a record $50 million",
+      "summary": "A Tyrannosaurus rex fossil billed as one of the world's largest and most complete specimens was sold for a record $50.1 million Tuesday to a mystery bidder.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5894586/mystery-bidder-buys-t-rex"
+    },
+    "world": {
+      "headline": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Thames Water returns to profit after raising bills",
+      "summary": "The UK's largest water company reported a post-tax profit for the 12 months to the end of March, but its net debt also swelled.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+      "summary": "The government says it will improve teenagers' lives but campaigners call it a \"missed opportunity\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
+      "summary": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-14": {
     "top": {
       "headline": "Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation",
