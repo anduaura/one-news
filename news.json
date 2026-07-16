@@ -1,4 +1,48 @@
 {
+  "2026-07-16": {
+    "top": {
+      "headline": "'No regrets' - Tuchel on England's defeat by Argentina",
+      "summary": "England manager Thomas Tuchel believes his team \"got too passive\" after scoring first in the World Cup semi-final against Argentina, which they lost 2-1 at Atlanta Stadium.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
+      "summary": "England went 1-0 up against Argentina before slumping to a heartbreaking semi-final defeat. Did boss Thomas Tuchel's \"negative\" tactics cost them a place in the World Cup final?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Argentina is back in the World Cup final after a thrilling semifinal win over England",
+      "summary": "Argentina survived another heart-stopping match when it scored two late goals to topple England and extend the Three Lions' six-decade-long wait for another World Cup trophy.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5893895/2026-world-cup-fifa-argentina-england-semifinal"
+    },
+    "world": {
+      "headline": "Iran targets military bases as US launches wave of strikes",
+      "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "British Steel taken into public ownership to protect 'vital' UK supply",
+      "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Ofcom launches investigation into TikTok child safety concerns",
+      "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+      "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-15": {
     "top": {
       "headline": "Midnight social media curfew proposed for UK teens aged 16 and 17 - but they can opt out",
