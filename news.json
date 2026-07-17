@@ -1,4 +1,48 @@
 {
+  "2026-07-17": {
+    "top": {
+      "headline": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
+      "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Effort, spirit and moments - but do England lack all-round quality?",
+      "summary": "As England reflect on their World Cup semi-final defeat by Argentina, BBC Sport's Phil McNulty looks at what Thomas Tuchel's team were lacking.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz64xyn4vz2o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "At the World Cup, has 'VAR' gone too far? Some fans say it's ruining the tournament",
+      "summary": "In this World Cup, VAR, or video assistant referee, has become ubiquitous (and despised by many). But there was a time when fans and teams loved it. What went wrong?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5896544/2026-world-cup-fifa-var-video-assitant-referee"
+    },
+    "world": {
+      "headline": "US launches new strikes as Iran says civilian infrastructure hit",
+      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
+      "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Trump Media to sell instant access to 'market-moving' social posts",
+      "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "UK heatwave approaches two-week mark",
+      "summary": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days. Sarah Keith-Lucas looks at how unusual this spell of heat is, and when we might see it easing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-16": {
     "top": {
       "headline": "'No regrets' - Tuchel on England's defeat by Argentina",
