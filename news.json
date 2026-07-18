@@ -1,4 +1,48 @@
 {
+  "2026-07-18": {
+    "top": {
+      "headline": "Burnham to announce plans for new North Sea oil and gas drilling",
+      "summary": "Drilling has become a controversial topic for the Labour party after the 2024 manifesto pledged to not issue new licenses.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
+      "summary": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
+      "summary": "The revelations came out in a federal court case brought by Democratic states challenging ICE's access to Medicaid data to aid in deportation efforts.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data"
+    },
+    "world": {
+      "headline": "US strikes hit Iran for seventh consecutive night",
+      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
+      "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+      "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
+      "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-17": {
     "top": {
       "headline": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
