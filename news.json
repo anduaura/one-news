@@ -1,4 +1,48 @@
 {
+  "2026-07-20": {
+    "top": {
+      "headline": "Chris Mason: Burnham is fifth PM in four years - now he'll try to buck the trend",
+      "summary": "Determined to hit the ground running, the former mayor hopes to maintain the leadership style he adopted in Manchester.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7knml2y99o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Victory for football? Spain beat Argentina to win World Cup",
+      "summary": "It might seem like a trite cliche, but you won't find many neutrals disagreeing with that verdict on the World Cup final.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "New federal law could bring running water to tribal homes, but states have concerns",
+      "summary": "More than 10,000 homes on Southwestern Indian reservations lack running water. This despite tribes substantial water rights. A new solution is being held up as states fight over the Colorado River.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5885047/new-federal-law-could-bring-running-water-to-tribal-homes-but-states-have-concerns"
+    },
+    "world": {
+      "headline": "US soldier killed and one injured after Iranian attack in Iraq",
+      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+      "summary": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+      "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Going with the flow: Renewable energy battery breakthrough",
+      "summary": "A 3D-printed battery designed at Queen's University Belfast could speed up energy storage research.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-19": {
     "top": {
       "headline": "Watch: Highlights as England stun France 6-4 in third-place play-off",
