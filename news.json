@@ -1,4 +1,48 @@
 {
+  "2026-07-21": {
+    "top": {
+      "headline": "Who's in Andy Burnham's cabinet?",
+      "summary": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Bournemouth midfielder Scott rejects new contract",
+      "summary": "Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England international.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+      "summary": "The FDA says lettuce distributed by Taylor Fresh Foods and Taylor Farms de Mexico is still linked to the multistate outbreak of cyclosporiasis. But the source may be difficult to definitively trace.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test"
+    },
+    "world": {
+      "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "VAT to be cut from household electricity bills in October",
+      "summary": "Homes will save around \u00a345 a year through the cut announced on Andy Burnham's first full day as prime minister.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Thousands of websites taken down for illegal World Cup streams",
+      "summary": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Tropical Storm Bertha threatens US Gulf coast",
+      "summary": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-20": {
     "top": {
       "headline": "Chris Mason: Burnham is fifth PM in four years - now he'll try to buck the trend",
