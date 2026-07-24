@@ -1,4 +1,48 @@
 {
+  "2026-07-24": {
+    "top": {
+      "headline": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Why Rogers and Palmer will thrive together in Alonso's Chelsea",
+      "summary": "Why Morgan Rogers' skillset means he and fellow attacking midfielder Cole Palmer will prosper in Xabi Alonso's Chelsea.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gwpzzgpyko?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Trump to impose double-digit tariffs on dozens of countries",
+      "summary": "The United States will slap taxes of 10% to 12.5% on imports from 60 countries accounting for 99% of U.S. imports, charging that they have inadequately enforced bans on goods produced by forced labor.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country"
+    },
+    "world": {
+      "headline": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "US hits dozens of trading partners with new wave of tariffs",
+      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Google fined \u20ac890m by EU for favouring its own apps over rivals",
+      "summary": "It is the first major enforcement action against the tech giant under the EU's new digital rules.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-23": {
     "top": {
       "headline": "Police officer was violent rapist who attacked women over 14 years, BBC reveals",
