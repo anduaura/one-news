@@ -1,4 +1,48 @@
 {
+  "2026-07-25": {
+    "top": {
+      "headline": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
+      "summary": "Farmers talk of attacks as police receive nearly 9,000 reports of banned hare coursing, the BBC finds.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "How do Manchester City manage the Rodri dilemma?",
+      "summary": "BBC Sport looks at what City's new-look midfield could be like and whether it is time to cash in on Rodri.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd9w2qp8pwxo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Trump returns to correspondents' dinner 3 months after shooting",
+      "summary": "President Donald Trump returned to the rescheduled White House Correspondents' Association dinner Friday night, delivering a rambling, hour-long speech.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner"
+    },
+    "world": {
+      "headline": "More than 220,000 evacuated in France and Spain due to wildfires",
+      "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+      "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
+      "summary": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-24": {
     "top": {
       "headline": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
