@@ -1,4 +1,48 @@
 {
+  "2026-07-26": {
+    "top": {
+      "headline": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+      "summary": "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Gomez injury overshadows winning start for Iraola",
+      "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Wildfire alert in the Western U.S. reaches its highest level",
+      "summary": "Wildfires have now scorched four million acres of land in the U.S. Federal fire managers say all of the country's resources are currently deployed to major fires.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5905334/wildfire-alert-in-the-western-u-s-reaches-its-highest-level"
+    },
+    "world": {
+      "headline": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+      "summary": "A 21-year-old suspect has been identified by police, but he has not been found.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Rental searches for pet friendly properties drop after law change",
+      "summary": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "'It's like having an amusement park and not opening it' - algae closures take toll",
+      "summary": "There are currently 245 algae blooms across water systems in Northern Ireland.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1m159e54l9o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-25": {
     "top": {
       "headline": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
