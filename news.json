@@ -1,4 +1,48 @@
 {
+  "2026-07-28": {
+    "top": {
+      "headline": "Schools to offer technical subjects from age 14 in England, Burnham says",
+      "summary": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Why Chelsea want to sign older players",
+      "summary": "Chelsea are targeting deals for Maxence Lacroix, Jordan Henderson and Danny Welbeck - three experienced heads, in an age when the focus has been on youth.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0nw0lyrkdo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Pentagon changes how it releases casualty data as Iran conflict continues",
+      "summary": "As U.S. service member deaths and injuries from Iranian attacks increased last week, the Pentagon shifted how it releases information on casualties.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5909210/pentagon-changes-how-it-releases-casualty-data-as-iran-conflict-continues"
+    },
+    "world": {
+      "headline": "The cocaine superhighway from Ecuador to Europe - BBC reports on the gangs and police fightback",
+      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
+      "summary": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Some people's chats with Claude AI found to be publicly available online",
+      "summary": "Hundreds of conversations with Anthropic\u2019s chatbot were discovered as being publicly accessible.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Conservation group tackling 'most dangerous plant'",
+      "summary": "A County Tyrone group says it has made progress tackling Giant Hogweed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0w3pq24yo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-27": {
     "top": {
       "headline": "NHS 'will collapse' without social care reform, PM tells BBC",
