@@ -1,4 +1,48 @@
 {
+  "2026-07-29": {
+    "top": {
+      "headline": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+      "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Uefa World Cup boycott may be raised over Fifa plan",
+      "summary": "Uefa's 55 member associations will hold an emergency meeting this week to discuss Fifa's controversial proposals to sell stakes in its major competitions.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Judge allows use of police interview in Tupac Shakur murder trial",
+      "summary": "A Nevada judge ruled on Tuesday that the recording of an interview the man accused in the killing Tupac Shakur gave to police in 2008 could be used at his upcoming trial.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5911616/police-interview-tupac-trial"
+    },
+    "world": {
+      "headline": "Japan in a \u2018race against time\u2019 to rescue people trapped beneath rubble after quake",
+      "summary": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
+      "summary": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+      "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+      "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-28": {
     "top": {
       "headline": "Schools to offer technical subjects from age 14 in England, Burnham says",
