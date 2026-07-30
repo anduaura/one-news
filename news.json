@@ -1,4 +1,48 @@
 {
+  "2026-07-30": {
+    "top": {
+      "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Manager Howe to leave Newcastle with immediate effect",
+      "summary": "Newcastle manager Eddie Howe is set to leave the club with immediate effect, sources tell BBC Sport.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yd23l95vgo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Senate panel delays vote on Blanche's nomination as key Republicans withhold support",
+      "summary": "The Senate Judiciary Committee had been expected to vote Thursday on whether to advance Todd Blanche's nomination. But resistance from two Republican senators threw his confirmation into doubt.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/30/g-s1-136265/senate-blanche-nomination"
+    },
+    "world": {
+      "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Shell profits double as oil prices rise due to Iran war",
+      "summary": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Trump considering AI controls after OpenAI hacking incidents",
+      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Stunning photos capture July's Buck Moon over the UK",
+      "summary": "Skygazers captured brilliant photos of July's full Moon as it rose over the UK on Wednesday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/c9v4rpjld89o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-29": {
     "top": {
       "headline": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
