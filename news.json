@@ -1,4 +1,48 @@
 {
+  "2026-07-31": {
+    "top": {
+      "headline": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+      "summary": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Asian confederation joins Uefa and Concacaf in opposing Fifa plan",
+      "summary": "The Asian Football Confederation (AFC) says it \"stands in solidarity\" with Uefa and Concacaf in opposition to Fifa's proposal to sell stakes in its competitions to private investors.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
+      "summary": "Plus: scandalous Senate drama, Grammys drama and Homeric drama.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz"
+    },
+    "world": {
+      "headline": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Sainsbury's agrees to sell Argos for \u00a3120m",
+      "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+      "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Drought conditions may worsen before improving as little rain in sight",
+      "summary": "Conditions in the most parched areas of the United Kingdom could worsen before they improve, according to the latest forecasts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-30": {
     "top": {
       "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
