@@ -1,4 +1,48 @@
 {
+  "2026-08-01": {
+    "top": {
+      "headline": "Fifa scraps World Cup investment plan after outcry",
+      "summary": "Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had \"created divisions\" and would not go ahead.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Fifa scraps controversial World Cup investment plan",
+      "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+      "summary": "Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: \"The opportunities for abuse and disinfo are literally boundless,\" said one.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky"
+    },
+    "world": {
+      "headline": "Fifa scraps controversial World Cup investment plan",
+      "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Snapchat joins other popular platforms in fight against 'AI slop'",
+      "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Snapchat joins other popular platforms in fight against 'AI slop'",
+      "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
+      "summary": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-07-31": {
     "top": {
       "headline": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
