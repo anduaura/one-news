@@ -1,4 +1,48 @@
 {
+  "2026-08-02": {
+    "top": {
+      "headline": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
+      "summary": "Police who responded to the shooting found the body of the suspected gunman in an area near the restaurant.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead"
+    },
+    "world": {
+      "headline": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
+      "summary": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Snapchat joins other popular platforms in fight against 'AI slop'",
+      "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Italy putting nearly all major cities on highest heat alert",
+      "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-01": {
     "top": {
       "headline": "Fifa scraps World Cup investment plan after outcry",
