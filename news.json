@@ -1,4 +1,48 @@
 {
+  "2026-08-04": {
+    "top": {
+      "headline": "Breast cancer checks missing most women under 50 who are at risk, says study",
+      "summary": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Record number of new managers for season like no other",
+      "summary": "The 2026-27 Premier League season has not yet kicked off, but it has already made history for its managerial changes.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddjmd6189yo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Morning news brief",
+      "summary": "Senate Judiciary Committee will vote to advance Todd Blanche's nomination, Michigan holds high-profile primary Tuesday, a man has been arrested in connection with one of the Spokane wildfires.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5904589/morning-news-brief"
+    },
+    "world": {
+      "headline": "EU calls for stronger borders after Ceuta migrant crossings",
+      "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "US states sue to block Trump tariffs impacting dozens of countries",
+      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Tokenomics: Why making AI pay is tricky",
+      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-03": {
     "top": {
       "headline": "English FA set to withdraw support for Fifa president Infantino",
