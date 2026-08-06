@@ -1,4 +1,48 @@
 {
+  "2026-08-06": {
+    "top": {
+      "headline": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+      "summary": "They say the incidents happened at the Army Foundation College in Harrogate when they were aged 17.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Infantino sorry for errors but stays Fifa president",
+      "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
+      "summary": "The firm, Houston-based Burke Law Group has only two attorneys who specialize in immigration and asylum cases. Two of its founders have ties to the Trump administration.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm"
+    },
+    "world": {
+      "headline": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+      "summary": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Marmots facing money troubles turn to OnlyFans",
+      "summary": "A Colorado lab researching the ground-squirrels comes up with an innovative way to raise money after funding cuts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywqp5z5yzo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-05": {
     "top": {
       "headline": "Peer urges Tories to block candidate jailed for antisemitic abuse against her",
