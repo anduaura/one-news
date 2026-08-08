@@ -1,4 +1,48 @@
 {
+  "2026-08-08": {
+    "top": {
+      "headline": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+      "summary": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Infantino denies claims Uefa paid off alleged 'lover'",
+      "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
+      "summary": "It's been a year since a gunman opened fire on the CDC and killed a security guard. RFK Jr. visited the CDC today to remember the victim.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends"
+    },
+    "world": {
+      "headline": "Child among three killed in Russian missile attacks near Kyiv",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "How a 90-second power outage sparked chaos for rail commuters",
+      "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Meta fined $567m in largest child safety ruling against social media giant",
+      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Hosepipe bans in force as drought declared - is your area affected?",
+      "summary": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-07": {
     "top": {
       "headline": "Officer who led PC Harper investigation 'appalled' killers could be released early",
