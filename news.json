@@ -1,4 +1,48 @@
 {
+  "2026-08-09": {
+    "top": {
+      "headline": "Andy Burnham to embark on cost of living tour through the UK",
+      "summary": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Fifa criticises campaign to oust president Infantino",
+      "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Solar eclipse to occur next week. Here is what to know",
+      "summary": "It will be visible in parts of the U.S. on Wednesday.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026"
+    },
+    "world": {
+      "headline": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip",
+      "summary": "A rare turtle is being flown home to the Caribbean Sea after being found washed up in Wales.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-08": {
     "top": {
       "headline": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
