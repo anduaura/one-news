@@ -1,4 +1,48 @@
 {
+  "2026-08-10": {
+    "top": {
+      "headline": "Travelodge staff gave domestic abuser key to his victim's room",
+      "summary": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Mourinho says he agreed to replace Ferguson at Man Utd",
+      "summary": "David Moyes succeeded Sir Alex Ferguson at Old Trafford in 2013 but things could have been so different, Jose Mourinho reveals in a new documentary.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7kldj1583o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
+      "summary": "A new generation of small nuclear reactors is poised to come online in the next few years. Public opinion remains split.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho"
+    },
+    "world": {
+      "headline": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+      "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+      "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "China evacuates one million from homes as massive storm arrives",
+      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-09": {
     "top": {
       "headline": "Andy Burnham to embark on cost of living tour through the UK",
