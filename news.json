@@ -1,4 +1,48 @@
 {
+  "2026-08-11": {
+    "top": {
+      "headline": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
+      "summary": "Andy Burnham is confident a solution can be found to exclude two of PC Harper's killers from an early release scheme, the BBC understands.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Trump says it would be 'terrible mistake' to remove Infantino",
+      "summary": "US President Donald Trump says it would be a \"terrible mistake\" if under pressure Fifa president Gianni Infantino was ousted.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "ICE crackdown in Minnesota changed the race for open U.S. Senate seat",
+      "summary": "President Trump's immigration crackdown in Minnesota earlier this year is a key issue going into that state's competitive Democratic primary for an open U.S. Senate seat.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925125/ice-crackdown-in-minnesota-changed-the-race-for-open-u-s-senate-seat"
+    },
+    "world": {
+      "headline": "At least 132 killed in Colombia's largest  earthquake in years",
+      "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Trump Media reports $238m loss as crypto falls",
+      "summary": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+      "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
+      "summary": "The Hollywood actor investigates claims cancer-causing chemicals were dumped across Wales.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-10": {
     "top": {
       "headline": "Travelodge staff gave domestic abuser key to his victim's room",
