@@ -1,4 +1,48 @@
 {
+  "2026-08-12": {
+    "top": {
+      "headline": "Early release scheme risks more serious crimes, probation chief warns",
+      "summary": "The chief inspector of probation for England and Wales tells the BBC services are already under \"unprecedented pressure\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?",
+      "summary": "Why investment by a group including Jeff Bezos would not make a marked difference to Liverpool's spending power - and might sit uneasily with fans.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgx311g1zko?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Troops have been patrolling D.C. for a year. Experts are worried about elections",
+      "summary": "As the National Guard deployment in Washington, D.C., hits the one year mark, experts worry about the potential for President Trump to deploy the military during the upcoming election.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5927394/troops-have-been-patrolling-d-c-for-a-year-experts-are-worried-about-elections"
+    },
+    "world": {
+      "headline": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "PM admits cost of living help is not enough and hints at further support",
+      "summary": "The PM has announced a rake of measures to help people since taking office three weeks ago.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Tokenomics: Why making AI pay is tricky",
+      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Solar eclipse and the island of Ireland: The weather forecast and all you need to know",
+      "summary": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-11": {
     "top": {
       "headline": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
