@@ -1,4 +1,48 @@
 {
+  "2026-08-14": {
+    "top": {
+      "headline": "Farage's by-election victory won't stop questions about finances",
+      "summary": "Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "What's going wrong for Rangers and McInnes?",
+      "summary": "After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
+      "summary": "The decision from U.S. District Judge Richard G. Stearns said that President Donald Trump's administration failed to prove an ongoing violation of federal civil rights laws.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard"
+    },
+    "world": {
+      "headline": "'Unprecedented' rains in Japan kill six people",
+      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "I got an \u00a389 refund \u2013 how to cancel and  avoid unwanted subscriptions",
+      "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Bumble divides users by ditching its signature 'women-first' chat rule",
+      "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "summary": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-13": {
     "top": {
       "headline": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
