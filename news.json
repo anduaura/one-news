@@ -1,4 +1,48 @@
 {
+  "2026-08-15": {
+    "top": {
+      "headline": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+      "summary": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Are fans now more invested in star names than clubs?",
+      "summary": "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Should the U.S. have a mandatory retirement age?",
+      "summary": "Older workers are delaying retirement more and more. But it's causing younger workers to wonder if they're missing out on job advancement because senior roles aren't opening up. Is this true?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5924910/should-the-u-s-have-a-mandatory-retirement-age"
+    },
+    "world": {
+      "headline": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Electric vehicle sales targets could be cut after pressure from car makers",
+      "summary": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Why tech bosses keep sharing their manifestos about AI",
+      "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "'Days of the farmers' union dictating policy are over' - Muir",
+      "summary": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-14": {
     "top": {
       "headline": "Farage's by-election victory won't stop questions about finances",
