@@ -1,4 +1,48 @@
 {
+  "2026-08-16": {
+    "top": {
+      "headline": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Strong favourites or tougher task - will Arsenal defend their title?",
+      "summary": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped as they for the challenge?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Lake Powell and Lake Mead water levels hit record lows",
+      "summary": "The water levels of Lakes Powell and Mead are at record lows. What does that mean for the millions of people who rely on the country's two biggest reservoirs and the Colorado River that feeds them?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5931512/lake-powell-and-lake-mead-water-levels-hit-record-lows"
+    },
+    "world": {
+      "headline": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Electric vehicle sales targets could be cut after pressure from car makers",
+      "summary": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-15": {
     "top": {
       "headline": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
