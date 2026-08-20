@@ -1,4 +1,48 @@
 {
+  "2026-08-20": {
+    "top": {
+      "headline": "Prince Harry and Meghan moving back to UK later this month",
+      "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
+      "summary": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "California passes toughest wildfire rules in the U.S. for home landscaping",
+      "summary": "California has adopted the toughest new rules in the country that require homeowners to manage the plants around their houses. Fire experts say it helps protect houses from burning, but public pushback has been strong.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation"
+    },
+    "world": {
+      "headline": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Trump vows tougher economic measures on Iran and supporting countries",
+      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+      "summary": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Giant whales move into Greenland waters as ice disappears",
+      "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-19": {
     "top": {
       "headline": "Burnham unveils plan to get rough sleepers off streets for Christmas",
