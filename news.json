@@ -1,4 +1,48 @@
 {
+  "2026-08-23": {
+    "top": {
+      "headline": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
+      "summary": "PC Matthew Blades, PC Tom Clough and five young people were killed when a car drove the wrong way on the A66 and struck the police vehicle.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Hull shock Man Utd with dream Premier League return",
+      "summary": "Watch highlights as Hull City make a dream start to their return to the Premier League, beating Manchester United 2-0 on the opening weekend at the MKM Stadium.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Washington D.C. ready and set for historic IndyCar race",
+      "summary": "For the first time in America's 250 year history, IndyCar drivers will zoom down some of the nation's most famous streets this weekend. The drivers face new challenges on an unconventional route.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5939865/washington-d-c-ready-and-set-for-historic-indycar-race"
+    },
+    "world": {
+      "headline": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+      "summary": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Robot horse and rider steal the spotlight at Chinese conference",
+      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "How a new era of heatwaves could shake up the school calendar",
+      "summary": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-22": {
     "top": {
       "headline": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
