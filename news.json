@@ -1,4 +1,48 @@
 {
+  "2026-08-24": {
+    "top": {
+      "headline": "Families of two police officers killed in crash say they were heroes",
+      "summary": "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Relief for Iraola but Liverpool have work to do",
+      "summary": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improve after below-par display.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+      "summary": "A round of storms impacted the region on Aug. 11",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm"
+    },
+    "world": {
+      "headline": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "summary": "Five years after the Taliban\u2019s return, the BBC follows senior figures as the group reshapes the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Shein aims for almost $27bn valuation in stock market debut",
+      "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Robot horse and rider steal the spotlight at Chinese conference",
+      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "France links sharp rise in drownings to heatwaves",
+      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-23": {
     "top": {
       "headline": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
