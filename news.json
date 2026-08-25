@@ -1,4 +1,48 @@
 {
+  "2026-08-25": {
+    "top": {
+      "headline": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Three reasons Chelsea could challenge for title - and one issue that could haunt them",
+      "summary": "While Chelsea's front three produced a sparkling display in their win over Fulham, goalkeeper Robert Sanchez remains a major concern.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62e2y1p7njo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+      "summary": "The Trump administration is preparing to revoke the business and tourism visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners"
+    },
+    "world": {
+      "headline": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Burnham refuses to rule out tax rises in autumn Budget",
+      "summary": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Songs created by AI banned from Australia's music charts",
+      "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Moon set to turn red as rare partial lunar eclipse graces UK skies",
+      "summary": "There will be a partial lunar eclipse in the UK on 28 August, and may cause the Moon appear reddish in colour.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-24": {
     "top": {
       "headline": "Families of two police officers killed in crash say they were heroes",
