@@ -1,4 +1,48 @@
 {
+  "2026-08-27": {
+    "top": {
+      "headline": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
+      "summary": "BBC Verify traces the path of the destructive Nepal-Tibet flash flood using verified video.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Uefa preparing criminal legal action against Infantino",
+      "summary": "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Some states are allowing lawsuits against federal agents. Is it a viable option?",
+      "summary": "Trump administration officials say federal agents have \"total immunity,\" but a number of states have passed laws allowing them to be sued. But is it a viable option for those seeking accountability?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/27/nx-s1-5928518/some-states-are-allowing-lawsuits-against-federal-agents-is-it-a-viable-option"
+    },
+    "world": {
+      "headline": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+      "summary": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Hackers steal data from millions of airport customers",
+      "summary": "About 8.7 million customers had their data accessed and a ransom was demanded.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Google, Microsoft and OpenAI among 100 firms calling for better cyber defences",
+      "summary": "The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "'We want them home': Families await word on loved ones missing in Nepal floods",
+      "summary": "More than 1,300 people are missing, including dozens of Americans and Canadians. Nepali authorities say more than 380 people have died.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-25": {
     "top": {
       "headline": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
