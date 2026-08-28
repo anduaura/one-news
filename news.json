@@ -1,4 +1,48 @@
 {
+  "2026-08-28": {
+    "top": {
+      "headline": "Videos show people survive floodwaters on balcony in Nepal",
+      "summary": "BBC Verify has located several videos from disaster-struck areas of the Trishuli river after deadly floods swept through.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Departing Watkins apologised for refusing to play - Emery",
+      "summary": "Ollie Watkins is leaving Aston Villa as their record Premier League goalscorer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg7z1wyn1no?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "'It's essentially been one long day': A daughter details search for parents in Nepal",
+      "summary": "Shreya Ahuja is searching for her parents after devastating floods struck Nepal. She is calling for international help and communications access as her family waits for news.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja"
+    },
+    "world": {
+      "headline": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
+      "summary": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "I was spending \u00a3700 a month: How I beat my late-night shopping addiction",
+      "summary": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+      "summary": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "'Our parents were crossing the border an hour before the flood hit'",
+      "summary": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-27": {
     "top": {
       "headline": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
