@@ -1,4 +1,48 @@
 {
+  "2026-08-31": {
+    "top": {
+      "headline": "Once a village, now barren land - BBC in the valley devastated by floods",
+      "summary": "The BBC reports from Sano Barkhu, a village overlooking the town of Syfrubesi, which was destroyed by the Nepal flooding.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c0m3197yxzmo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Barcola joins Liverpool from PSG in \u00a3123m move",
+      "summary": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to \u00a3123m.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "At least 15 people missing after Grand Canyon flash flood",
+      "summary": "Several people are missing or unaccounted for after severe flash flooding in the Grand Canyon on Saturday caused significant damage.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/31/nx-s1-5949409/at-least-15-people-missing-after-grand-canyon-flash-flood"
+    },
+    "world": {
+      "headline": "US and Iran trade strikes for first time in weeks",
+      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "'My parents won't lend me \u00a310k but helped my brother': When families play financial favourites",
+      "summary": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "I've been to Gamescom six times - here's what excited me this year",
+      "summary": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-30": {
     "top": {
       "headline": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
