@@ -1,4 +1,48 @@
 {
+  "2026-09-01": {
+    "top": {
+      "headline": "Keir Starmer announces he is standing down as MP",
+      "summary": "The former prime minister said he would now turn his focus to international affairs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Aston Villa complete \u00a347m Mbaye signing",
+      "summary": "Aston Villa sign of Senegal winger Ibrahim Mbaye from Paris St-Germain for a fee of 55m euros (\u00a347m).",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
+      "summary": "A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump's push to restrict mail voting that could \"derail\" the midterm election if courts allow it to proceed.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps"
+    },
+    "world": {
+      "headline": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "summary": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Shein valued at $26bn after long-awaited stock market debut",
+      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "summary": "The governor of the Bank of England warned of AI's \u201cvolatility\u201d caused by energy shocks from the US-Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Family fear for missing hydropower worker after Nepal flood",
+      "summary": "Jit Bahadur Chaudhary was working at the hydropower site when the flood hit on Wednesday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1kxmvm39nyo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-08-31": {
     "top": {
       "headline": "Once a village, now barren land - BBC in the valley devastated by floods",
