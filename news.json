@@ -1,4 +1,48 @@
 {
+  "2026-09-02": {
+    "top": {
+      "headline": "Four charged with murder after baby stabbed to death",
+      "summary": "Police say four people, aged between 19 and 38, are due in court on Wednesday charged with murder.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
+      "summary": "The summer's longest-running transfer saga ends with Manchester City paying a joint-British record fee to bring in midfielder Enzo Fernandez from Chelsea.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0z377mxero?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
+      "summary": "The recent trade war between the U.S. and Canada has both economic and political implications for Michigan given it's the state's top trade partner.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump"
+    },
+    "world": {
+      "headline": "US sailors arrive at Thailand's Pattaya after record 250 days at sea",
+      "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+      "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+      "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Will your name be the next UK storm?",
+      "summary": "The storm name list for the next year is out. Will your name be on it?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckgxzyrk7x7o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-01": {
     "top": {
       "headline": "Keir Starmer announces he is standing down as MP",
