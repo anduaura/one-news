@@ -1,4 +1,48 @@
 {
+  "2026-09-03": {
+    "top": {
+      "headline": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Man City buy costly new midfield - but have they overlooked Haaland cover?",
+      "summary": "Manchester City have completed a squad overhaul including a fully revamped midfield to the tune of a Premier League record \u00a3458m, but that eyewatering number does not tell the full story.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
+      "summary": "Food stamps have a direct link to other critical resources, such as free breakfast and lunch at school. Now, experts say they're starting to see that link break.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda"
+    },
+    "world": {
+      "headline": "UN warns of 'supersized' El Ni\u00f1o as countries prepare for impact",
+      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "B&Q and Five Guys among firms that paid staff below minimum wage",
+      "summary": "More than 600 companies underpaid staff, with \u00a34m returned to workers, according to the government.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Watch: BBC travels in self-driving Uber around London",
+      "summary": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Stormy autumn, cold winter - how might El Ni\u00f1o affect the UK weather?",
+      "summary": "This year's El Ni\u00f1o is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-02": {
     "top": {
       "headline": "Four charged with murder after baby stabbed to death",
