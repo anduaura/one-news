@@ -1,4 +1,48 @@
 {
+  "2026-09-05": {
+    "top": {
+      "headline": "Cleveland police chief proud of force but being 'let down' by funding",
+      "summary": "Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Isak finally arrives as Gakpo proves value to Liverpool",
+      "summary": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+      "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending"
+    },
+    "world": {
+      "headline": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Stock up on food to prepare for extreme weather, minister says",
+      "summary": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+      "summary": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Trump signs order to remove endangered species protection for grey wolves",
+      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-04": {
     "top": {
       "headline": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
