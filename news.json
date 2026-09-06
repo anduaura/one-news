@@ -1,4 +1,48 @@
 {
+  "2026-09-06": {
+    "top": {
+      "headline": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Arsenal had more than 20 players on shortlist to capitalise on title win",
+      "summary": "Senior football correspondent Sami Mokbel goes inside Arsenal's bid to capitalise on their Premier League title and strengthen their squad this summer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "American Muslims are giving Texas barbecue a halal makeover",
+      "summary": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover"
+    },
+    "world": {
+      "headline": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+      "summary": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+      "summary": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Aviation faces hotter, stormier skies \u2013 and passengers might have to accept more disruption",
+      "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-05": {
     "top": {
       "headline": "Cleveland police chief proud of force but being 'let down' by funding",
