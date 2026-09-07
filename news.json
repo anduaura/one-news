@@ -1,4 +1,48 @@
 {
+  "2026-09-07": {
+    "top": {
+      "headline": "How anti-migrant boat protests were organised and who is behind them",
+      "summary": "Danny Thomas organised the demonstration in Dover - seemingly after weeks of preparation - and was also present in Portsmouth.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "New video shows Williams handball - but won't end VAR row",
+      "summary": "A new camera angle shows the ball coming off Nottingham Forest defender Neco Williams' arms as he scores his disallowed goal against Tottenham.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0lr4401rw0o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Diesel prices soar as U.S. farmers preparing for harvest continue to feel squeezed",
+      "summary": "Diesel prices have spiked just in time for corn and soybean harvests. Farmers need the fuel to bring in the crops, and many were already hurting, but there are factors offsetting this latest setback.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/07/nx-s1-5958604/diesel-prices-soar-as-u-s-farmers-preparing-for-harvest-continue-to-feel-squeezed"
+    },
+    "world": {
+      "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+      "summary": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+      "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Pioneering fossil hunter recognised with blue plaque",
+      "summary": "Dorothea Bate discovered the dwarf elephant and the myotragus, an extinct goat-like antelope.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zx1v8ye3o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-06": {
     "top": {
       "headline": "US envoys set for Ukraine talks after meeting Putin in Russia",
