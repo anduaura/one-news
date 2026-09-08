@@ -1,4 +1,48 @@
 {
+  "2026-09-08": {
+    "top": {
+      "headline": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
+      "summary": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Who are Champions League favourites and players to watch?",
+      "summary": "The Champions League is back and BBC Sport takes a look at who the favourites are to win the title plus predictions from the experts.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Hurricane Lowell could cause flooding, mudslides in western Hawaii",
+      "summary": "Hurricane Lowell triggers hurricane warnings on its approach to western Hawaii as a major Category 3 storm.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5960453/hurricane-lowell-could-cause-flooding-mudslides-in-western-hawaii"
+    },
+    "world": {
+      "headline": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "summary": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Scammers demand ransoms from Instagram users over fake copyright claims",
+      "summary": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Gaps in evidence on vaccinating badgers against TB, researchers say",
+      "summary": "Researchers want increased monitoring of the vaccination's impact on the disease and a review of the evidence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddvzz1mjpvo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-07": {
     "top": {
       "headline": "How anti-migrant boat protests were organised and who is behind them",
