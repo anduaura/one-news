@@ -1,4 +1,48 @@
 {
+  "2026-09-09": {
+    "top": {
+      "headline": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+      "summary": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'",
+      "summary": "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
+      "summary": "Flight data suggest an Amazon cargo plane tried to abort an unsteady landing at Miami International Airport before smashing into a van and killing five people inside, according to information investigators released Tuesday.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami"
+    },
+    "world": {
+      "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "summary": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Learner drivers still waiting 20 weeks to book tests",
+      "summary": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii",
+      "summary": "The storm brought damaging winds and torrential rain to parts of the island on Monday and Tuesday, triggering concerns about flash flooding and mudslides.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c2079ne1xx6o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-08": {
     "top": {
       "headline": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
