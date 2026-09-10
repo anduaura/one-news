@@ -1,4 +1,48 @@
 {
+  "2026-09-10": {
+    "top": {
+      "headline": "England's mayors to be given power to introduce tourist tax",
+      "summary": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Spurs should be awarded 2016-17 title - Pochettino",
+      "summary": "Mauricio Pochettino believes Chelsea should be stripped of the Premier League title for 2016-17, when his Tottenham team finished runners-up.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "NYC firefighters want answers after release of post-9/11 air quality documents",
+      "summary": "New York City's firefighters are demanding answers after the city released documents showing how toxic the air quality was following the attacks on the World Trade Center on 9/11.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5963895/nyc-firefighters-want-answers-after-release-of-post-9-11-air-quality-documents"
+    },
+    "world": {
+      "headline": "Trump says every adult American will get $5,000 if Republicans win midterms",
+      "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Primark finally set to launch home deliveries",
+      "summary": "The retailer launches the service four years after making its first foray into internet shopping.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "UK needs new laws for AI in healthcare, says watchdog",
+      "summary": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "August joint-hottest month on record as climate change and El Ni\u00f1o drive heat",
+      "summary": "Climate change and the rising influence of El Ni\u00f1o saw August reach the record for warmest month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-09": {
     "top": {
       "headline": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
