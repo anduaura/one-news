@@ -1,4 +1,48 @@
 {
+  "2026-09-11": {
+    "top": {
+      "headline": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "summary": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Hall signs new contract with Newcastle until 2031",
+      "summary": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "25 years later, Americans pause to remember the lives lost on 9/11",
+      "summary": "Twenty-five years ago, nearly 3,000 people were killed in the 9/11 attacks. Today, Americans are honoring the lives lost and reflecting on the aftermath of that tragic day.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5965530/25-years-later-americans-pause-to-remember-the-lives-lost-on-9-11"
+    },
+    "world": {
+      "headline": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+      "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "AI boom helps drive surprise UK growth in July",
+      "summary": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Sheen says he was snubbed by FM over pollution claims",
+      "summary": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm2q8pp8epro?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-10": {
     "top": {
       "headline": "England's mayors to be given power to introduce tourist tax",
