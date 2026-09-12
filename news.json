@@ -1,4 +1,48 @@
 {
+  "2026-09-12": {
+    "top": {
+      "headline": "Reform receives record \u00a336m donation from crypto billionaire",
+      "summary": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Signed instead of Rashford, Gordon is proving worth at Barca",
+      "summary": "Anthony Gordon's \u00a370m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Neighbor turned on neighbor after Charlie Kirk's killing. Is the divide here to stay?",
+      "summary": "The assassination of far right activist Charlie Kirk opened the floodgates of neighbor-on-neighbor doxing. A year later, the damage to political discourse in the U.S. remains.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing"
+    },
+    "world": {
+      "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "summary": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Battle to save the tiny, gooey snail only found in one lake in the UK",
+      "summary": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-11": {
     "top": {
       "headline": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
