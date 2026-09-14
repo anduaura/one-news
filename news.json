@@ -1,4 +1,48 @@
 {
+  "2026-09-14": {
+    "top": {
+      "headline": "What you need to know about the latest donations to Reform UK",
+      "summary": "Chief political correspondent Henry Zeffman explains who's behind Reform UK's \u00a372m in donations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Familiar questions for Man Utd, now Carrick must find answers",
+      "summary": "After one win in four Premier League games, the problems are mounting for Manchester United and manager Michael Carrick.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddv5mqjgvlo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "This city led the way on reparations for Black people. Trump is trying to stop it",
+      "summary": "Evanston, Ill., became the first U.S. city to compensate Black people for historical discrimination. The Justice Department is trying to kill its program before other cities follow suit.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration"
+    },
+    "world": {
+      "headline": "China criticises idea it is in 'malicious competition' over AI",
+      "summary": "It follows the Anthropic CEO 's calls for a slowdown in AI development, in a way that China doesn't pull ahead.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Petrol and diesel prices hit highest since 2022",
+      "summary": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Why are there concerns AI could threaten humanity, and how real are they?",
+      "summary": "Existential fears about AI have once again reared their head - here's what you need to know.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "summary": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-13": {
     "top": {
       "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
