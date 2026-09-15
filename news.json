@@ -1,4 +1,48 @@
 {
+  "2026-09-15": {
+    "top": {
+      "headline": "State pension likely to top \u00a313,000 a year as UK wage growth slows to 3.9%",
+      "summary": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "McBurnie & seven uncapped names in Scotland squad",
+      "summary": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
+      "summary": "The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the \"Pro-Human Assembly\" in Washington, D.C., to convince Congress to work faster to curb the impact of AI.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai"
+    },
+    "world": {
+      "headline": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "State pension likely to top \u00a313,000 a year as UK wage growth slows to 3.9%",
+      "summary": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Pubs in England and Wales to allow digital ID apps to prove age",
+      "summary": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Will El Ni\u00f1o bring winter snow to the UK?",
+      "summary": "Will El Ni\u00f1o bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cred7xze25ndo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-14": {
     "top": {
       "headline": "What you need to know about the latest donations to Reform UK",
