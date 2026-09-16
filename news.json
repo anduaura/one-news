@@ -1,4 +1,48 @@
 {
+  "2026-09-16": {
+    "top": {
+      "headline": "Petrol and diesel price rises push UK inflation higher",
+      "summary": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Maresca criticises focus on controversial winner",
+      "summary": "Manchester City manager Enzo Maresca says it is \"quite poor\" that the controversy surrounding Erling Haaland's winner has overshadowed his side's win at Manchester United.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "The 500 colleges where former students aren't repaying their loans, and why",
+      "summary": "Federal data shows many borrowers who aren't paying their loans went to private, for-profit colleges \u2014 schools that often market to low-income students and rely on federal financial aid for revenue.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5946419/student-loans-repayment-for-profit-college"
+    },
+    "world": {
+      "headline": "EU chief backs plan for Canada to become 'associate member'",
+      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Petrol and diesel price rises push UK inflation higher",
+      "summary": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Colombia and Brazil deadliest countries for environmental activists, report says",
+      "summary": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-15": {
     "top": {
       "headline": "State pension likely to top \u00a313,000 a year as UK wage growth slows to 3.9%",
