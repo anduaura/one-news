@@ -1,4 +1,48 @@
 {
+  "2026-09-17": {
+    "top": {
+      "headline": "Palace in war of words with Earl Spencer over claims in Diana book",
+      "summary": "The row threatens to overshadow a very crowded day for the royals - with the King and Princes William and Harry all attending events.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Carrick 'not bothered' by pressure - but should he be after this latest mess?",
+      "summary": "Manager Michael Carrick insists he does not feel under pressure after Manchester United's EFL Cup exit.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "D.C. airspace is complicated. Experts say Trump's arch would add one more risk",
+      "summary": "The Trump administration wants to build its 250-foot arch near one of the country's busiest runways. The FAA will determine whether that poses a hazard. But independent experts already have concerns.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa"
+    },
+    "world": {
+      "headline": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "summary": "Austin Tice\u2019s abduction was approved by Syria\u2019s former leader Bashar al-Assad, a source claims.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "UK interest rates held at 3.75% despite rising inflation",
+      "summary": "Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Why are there concerns AI could threaten humanity, and how real are they?",
+      "summary": "Existential fears about AI have once again reared their head - here's what you need to know.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "The farmer who turned to singing after bovine TB silenced his fields",
+      "summary": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-16": {
     "top": {
       "headline": "Petrol and diesel price rises push UK inflation higher",
