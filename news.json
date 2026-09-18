@@ -1,4 +1,48 @@
 {
+  "2026-09-18": {
+    "top": {
+      "headline": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+      "summary": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "From depression after Chelsea injury to playing non-league at 37",
+      "summary": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer",
+      "summary": "The world made it to another Friday without an AI apocalypse, so here's the quiz! See you next week \u2026 maybe.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz"
+    },
+    "world": {
+      "headline": "Three dead and eight injured in Philippines school shooting",
+      "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "We bought our \u00a3242,000 home without a deposit - here's how",
+      "summary": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "The virtual worlds where robots are trained",
+      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "See tiny organisms on show in microscopic video competition",
+      "summary": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cr209jz45vn4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-17": {
     "top": {
       "headline": "Palace in war of words with Earl Spencer over claims in Diana book",
