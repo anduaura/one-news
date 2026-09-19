@@ -1,4 +1,48 @@
 {
+  "2026-09-19": {
+    "top": {
+      "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Chelsea miss Joao Pedro... and can't stop conceding goals",
+      "summary": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Alaska's salmon-feasting bears face off in biggest Fat Bear Week ever",
+      "summary": "This year's single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they've seen in recent memory.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket"
+    },
+    "world": {
+      "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "summary": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "summary": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Google's Gemini AI hacked three companies in security test",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "When a beloved tree began withering away, locals suspected a killer in their midst",
+      "summary": "A neighbourhood\u2019s fight to save a cherished ginkgo pits them against an unlikely foe.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-18": {
     "top": {
       "headline": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
