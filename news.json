@@ -1,4 +1,48 @@
 {
+  "2026-09-20": {
+    "top": {
+      "headline": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+      "summary": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Will the three-week break put more pressure on managers?",
+      "summary": "So far this season three coaches have lost their jobs, but plenty of others will be looking over their shoulders heading into the new, extended international break.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
+      "summary": "Fox Corp. must turn over hundreds of documents that could shed light on how founder Rupert Murdoch handled some of his media companies' biggest scandals.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit"
+    },
+    "world": {
+      "headline": "'Massive' drone attack on Moscow region sees Ukraine hit oil refinery",
+      "summary": "Moscow's mayor says 450 drones were downed during the \"unprecedented attack\", in which two people died.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Ed Davey calls for immediate 10p cut to fuel duty",
+      "summary": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Not all AI workers think the tech could kill everyone",
+      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-19": {
     "top": {
       "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
