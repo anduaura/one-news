@@ -1,4 +1,48 @@
 {
+  "2026-09-21": {
+    "top": {
+      "headline": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+      "summary": "Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Gibbs-White set to replace Palmer in England squad",
+      "summary": "Morgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is set to withdraw from the squad because of a minor injury.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "The data center backlash is reshaping American politics \u2014 one community at a time",
+      "summary": "With striking speed, the widespread debate around data centers has become a fault line in American communities, cutting across political parties and forging unexpected alliances.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai"
+    },
+    "world": {
+      "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "What are my rights if my flight is cancelled or delayed?",
+      "summary": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Not all AI workers think the tech could kill everyone",
+      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Which emergency foods should you stock up on?",
+      "summary": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-20": {
     "top": {
       "headline": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
