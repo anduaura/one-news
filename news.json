@@ -1,4 +1,48 @@
 {
+  "2026-09-22": {
+    "top": {
+      "headline": "Martha's Rule rolled out at every A&E department in England",
+      "summary": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'Alarming' - does WSL have a homegrown problem?",
+      "summary": "The London City Lionesses raised eyebrows with no English players in their starting line-up against Manchester United, but is there a wider trend?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cew9nqnz9lno?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings",
+      "summary": "A lock of hair, 15 years of sleuthing and a 200-year-old question. In History by a Hair, Smithsonian Institution scholar Richard Kurin follows the DNA trail back to Thomas Jefferson.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5791513/thomas-jefferson-sally-hemings-dna-hair-smithsonian"
+    },
+    "world": {
+      "headline": "Major US outlets boycott shared Trump coverage in protest at media ban",
+      "summary": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+      "summary": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Not all AI workers think the tech could kill everyone",
+      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Inside Scotland's wildcat HQ",
+      "summary": "The Saving Wildcats partnership is keeping an eye on the latest wildcats being bred in captivity for release into the Cairngorms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckq6312dq0qjo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-21": {
     "top": {
       "headline": "Young people aren't snowflakes - mental distress is rising, says head of official review",
