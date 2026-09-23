@@ -1,4 +1,48 @@
 {
+  "2026-09-23": {
+    "top": {
+      "headline": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+      "summary": "Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was \"terrible\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Hunting hidden gems - is there anywhere in the world left to scout?",
+      "summary": "Through live scouting and increasing data and footage, top clubs now have tabs on a large proportion of the world's talent.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y8zp2v1zl4o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "DOJ defends White House media ban, urges court to reject lawsuit",
+      "summary": "The Department of Justice defended President Trump's recent media ban, arguing that reporting by CNN, MS Now and Politico on a wide range of issues jeopardized national security and spread falsehoods.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban"
+    },
+    "world": {
+      "headline": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Off sick? You need to phone your boss, back-to-work adviser says",
+      "summary": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Pornhub investigated over its age checks",
+      "summary": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Farmers' fury as race for \u00a3233m funding compared to 'scramble for Oasis tickets'",
+      "summary": "Farmers fear they may not be able to carry out environmental work because they lost out on funding.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3pwlejxrd7do?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-22": {
     "top": {
       "headline": "Martha's Rule rolled out at every A&E department in England",
