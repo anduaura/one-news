@@ -1,4 +1,48 @@
 {
+  "2026-09-24": {
+    "top": {
+      "headline": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
+      "summary": "The BBC has spoken to women who suffered unnecessary surgery, delayed diagnoses and a lack of care.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "How Man City overhauled their squad from a 650,000-strong database",
+      "summary": "BBC Sport goes inside Manchester City's data team, who have been a key part of their rebuild over the past 18 months.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1wx51gyly5o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "FBI investigating after hackers say they took sensitive data from agency's jobs site",
+      "summary": "The FBI is investigating criminal hackers' claims of breaching its jobs website. The apparent hack poses a potential counterintelligence risk and a safety concern for employees and applicants.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5979037/fbi-investigating-after-hackers-say-they-took-sensitive-data-from-agencys-jobs-site"
+    },
+    "world": {
+      "headline": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "\u00a3170 a bag? Protein users squeezed as prices soar",
+      "summary": "Consumers are feeling the pinch from the rising cost of protein.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "When and how to see the Harvest Moon in 2026",
+      "summary": "September's full Moon will rise across on Saturday 26 September. The best viewing conditions currently look to be across southern and eastern parts of the UK.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cmp8dr34rz0yo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-23": {
     "top": {
       "headline": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
