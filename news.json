@@ -1,4 +1,48 @@
 {
+  "2026-09-27": {
+    "top": {
+      "headline": "Burnham proposes NHS-style social care system for England",
+      "summary": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "England embrace the chaos - but control also needed to win big prizes",
+      "summary": "England embrace the chaos, but superb Spain show it will never win big prizes, says chief football writer Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "CNN is getting new owners with close ties to Trump",
+      "summary": "Two big TV news outlets, CBS and CNN, will now be controlled by Trump allies. Some journalists are worried about pressure on their coverage.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981103/cnn-is-getting-new-owners-with-close-ties-to-trump"
+    },
+    "world": {
+      "headline": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Andy Burnham refuses to back third runway at Heathrow",
+      "summary": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost \u00a333bn",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "OpenAI bots meddled with multiple US government agency sites",
+      "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Bangkok roads submerged as flood disaster declared",
+      "summary": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-26": {
     "top": {
       "headline": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
