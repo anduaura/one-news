@@ -1,4 +1,48 @@
 {
+  "2026-09-28": {
+    "top": {
+      "headline": "Watch: Were the RAF Fairford arrests 'pure luck'?",
+      "summary": "Five men have been arrested on suspicion of explosive and terrorism offences after a major incident was declared at an airbase in the west of England.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c65ywnl3dvzno?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "FAI unclear over possible sanctions if game not played",
+      "summary": "Republic of Ireland could have faced \"undetermined\" sanctions had they not played their Nations League match against Israel on Sunday, according to FAI president Paul Cooke.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2z9p30rlxo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "SpaceX's Starship launches on first orbital mission from Texas",
+      "summary": "Starship is key to SpaceX's commercial success and NASA's plans to land humans on the moon. This is the 14th flight of the uncrewed Starship, but the first time it aims to reach orbit.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa"
+    },
+    "world": {
+      "headline": "Inside Yemen's front-line city as Houthis battle for control",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "UK diesel price hits all-time high, RAC says",
+      "summary": "The US-Israel war with Iran has caused fuel prices to soar.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+      "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Mexico's Pacific coast braces for Hurricane Polo",
+      "summary": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-27": {
     "top": {
       "headline": "Burnham proposes NHS-style social care system for England",
