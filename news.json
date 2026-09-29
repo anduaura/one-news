@@ -1,4 +1,48 @@
 {
+  "2026-09-29": {
+    "top": {
+      "headline": "RAF Fairford incident involves 'foreign actor', says Rubio",
+      "summary": "In a television interview the US Secretary of State mentioned Iran, which has denied any involvement",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm7502650gy6o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Toone and Kelly miss out on Lionesses squad",
+      "summary": "Manchester United midfielder Ella Toone misses out on selection for England's Women's World Cup qualifying matches this month.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y9z7dlq199o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Prosecutors are reopening a Cornell University fraternity rape case",
+      "summary": "An investigation into an alleged gang rape of a former Cornell University student has been reopened after a civil lawsuit was filed earlier this month.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983714/prosecutors-are-reopening-a-cornell-university-fraternity-rape-case"
+    },
+    "world": {
+      "headline": "OpenAI scraps rollout of new model over safety concerns",
+      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Burnham to unveil public body to invest in electricity grid",
+      "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "OpenAI scraps rollout of new model over safety concerns",
+      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+      "summary": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-28": {
     "top": {
       "headline": "Watch: Were the RAF Fairford arrests 'pure luck'?",
