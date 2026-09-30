@@ -1,4 +1,48 @@
 {
+  "2026-09-30": {
+    "top": {
+      "headline": "Move to rejoin EU among options for UK, says Burnham",
+      "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Richards 'devastated' by Man City guilty verdicts",
+      "summary": "Former Manchester City defender Micah Richards felt \"absolutely devastated\" after reading the Premier League's \"damning\" verdict on the club's financial charges.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+      "summary": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah"
+    },
+    "world": {
+      "headline": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "summary": "At least six people were killed and 33 others injured across the country in the overnight attacks, local authorities reported.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Household energy bills forecast to see biggest rise in four years",
+      "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Regulating AI 'not the right place to start' says Bailey",
+      "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Orionid meteor shower to streak across night sky this week",
+      "summary": "The Orionid meteor shower peaks in October as Earth passes through debris left behind by Halley\u2019s Comet.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-29": {
     "top": {
       "headline": "RAF Fairford incident involves 'foreign actor', says Rubio",
