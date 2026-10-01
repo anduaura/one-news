@@ -1,4 +1,48 @@
 {
+  "2026-10-01": {
+    "top": {
+      "headline": "We fear for our lives after being told our abusive exes will be freed from jail early",
+      "summary": "Three victims of domestic abuse tell the BBC why they feel let down by the early prisoner release scheme.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crz6zq5pew89o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Ranking the best British football exports this century",
+      "summary": "From David Beckham and Gareth Bale to Jude Bellingham and Harry Kane, who are the best British exports this century?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2zejdk5x0o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Trump administration reverses stance on integration of people with disabilities",
+      "summary": "Disability rights advocates are angered by the latest reversal but are rallying behind proposed legislation and working with states to strengthen protections for community integration.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5981375/integration-mandate-disabilities-reversed-trump"
+    },
+    "world": {
+      "headline": "US death row inmate survives execution attempt after two lethal injections",
+      "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "AI boom could trigger market shocks, Bank of England boss warns",
+      "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "The rare Bog Grass Moth found in nature reserve for first time",
+      "summary": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-09-30": {
     "top": {
       "headline": "Move to rejoin EU among options for UK, says Burnham",
