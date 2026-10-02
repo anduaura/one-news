@@ -1,4 +1,48 @@
 {
+  "2026-10-02": {
+    "top": {
+      "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Man City confirm appeal against guilty verdict",
+      "summary": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate",
+      "summary": "The botched execution in Tennessee of Christa Pike, who survived despite being subject to two doses of lethal injection on Wednesday, has reignited furious debate about the death penalty in the U.S.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate"
+    },
+    "world": {
+      "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "'It could cost me \u00a310k but I need the money now': Why Gen Z are opting out of pensions",
+      "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "OpenAI fires workers for 'mishandling sensitive information'",
+      "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "How to see the Orionid meteor shower from Friday",
+      "summary": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley\u2019s Comet. It peaks later in October.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-01": {
     "top": {
       "headline": "We fear for our lives after being told our abusive exes will be freed from jail early",
