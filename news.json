@@ -1,4 +1,48 @@
 {
+  "2026-10-03": {
+    "top": {
+      "headline": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
+      "summary": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmew9w451vx8o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Just short of its 200th birthday, a landmark natural history museum shuts down",
+      "summary": "Beloved for its dinosaurs, Philadelphia's storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure"
+    },
+    "world": {
+      "headline": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "OpenAI fires workers for 'mishandling sensitive information'",
+      "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Could El Ni\u00f1o mean there are no Atlantic hurricanes this year?",
+      "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-02": {
     "top": {
       "headline": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
