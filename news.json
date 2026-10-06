@@ -1,4 +1,48 @@
 {
+  "2026-10-06": {
+    "top": {
+      "headline": "Watch: At the scene of student protests on the streets of Lille",
+      "summary": "The demonstrators are calling for better government investment in high schools.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "England's greatest international? Kane is now a serious contender",
+      "summary": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "What voters in 6 key states could tell us about the 2026 midterms",
+      "summary": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states"
+    },
+    "world": {
+      "headline": "Former German spy chief arrested for espionage and treason",
+      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+      "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Italian PM files to trademark her voice against AI threats",
+      "summary": "Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "'Ghost particles' from space telescope wins physics Nobel",
+      "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-05": {
     "top": {
       "headline": "No 10 insists RAF Fairford is safe after US withdraws bombers",
