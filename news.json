@@ -1,4 +1,48 @@
 {
+  "2026-10-07": {
+    "top": {
+      "headline": "Man admits sexually assaulting woman drugged by husband",
+      "summary": "The husband is accused of inviting 13 other men to abuse her at their family home in Greater Manchester.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wvp34v460o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Senior figures worried about Man City being in next season's Champions League",
+      "summary": "Senior figures within the English game are concerned that Manchester City could play in the Champions League next season even if they are relegated for breaching financial regulations.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gxgm71zzo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Over 1,000 children are buried at juvenile detention centers nationwide",
+      "summary": "Researchers uncovered the graves of more than 1,000 children next to juvenile detention facilities in 29 states. At one Maryland gravesite, 230 Black boys are buried.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5986124/over-1-000-children-are-buried-at-juvenile-detention-centers-nationwide"
+    },
+    "world": {
+      "headline": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Ex-bankers jailed for rigging rates have convictions quashed",
+      "summary": "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Rainmakers: The drones used to seed clouds",
+      "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-06": {
     "top": {
       "headline": "Watch: At the scene of student protests on the streets of Lille",
