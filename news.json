@@ -1,4 +1,48 @@
 {
+  "2026-10-08": {
+    "top": {
+      "headline": "Royal Navy sailor in court accused of preparing to spy for Russia",
+      "summary": "The 24-year-old man appeared at Westminster Magistrates\u2019 Court on Thursday after being arrested at his home in Bedfordshire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Clubs fear political interference in Man City appeal",
+      "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "People along the Gulf Coast prepare for Hurricane Isaias",
+      "summary": "Isaias became the first hurricane of the Atlantic season late Wednesday. It's expected to make landfall along the U.S. Gulf Coast Friday.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5993874/people-along-the-gulf-coast-prepare-for-hurricane-isaias"
+    },
+    "world": {
+      "headline": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "summary": "Ukraine accused Russia of targeting the crowded vehicles in the frontline city of Kramatorsk to kill as many civilians as possible.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Asos hackers took more personal details than first revealed, BBC finds",
+      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Asos hackers took more personal details than first revealed, BBC finds",
+      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "First Hurricane of the Atlantic season due to hit the Gulf coast",
+      "summary": "El Ni\u00f1o has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-07": {
     "top": {
       "headline": "Man admits sexually assaulting woman drugged by husband",
