@@ -1,4 +1,48 @@
 {
+  "2026-10-10": {
+    "top": {
+      "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Time to rise? Ranking European football's sleeping giants",
+      "summary": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Parallel parking is now a sport in Philly, complete with speed and flair",
+      "summary": "Philadelphia recently held its first-ever Parallel Parking Association Championship. Hundreds of people came out to see drivers compete for speed, accuracy and even flair.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/10/nx-s1-5992995/parallel-parking-is-now-a-sport-in-philly-complete-with-speed-and-flair"
+    },
+    "world": {
+      "headline": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "summary": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Hurricane Isaias downgraded after making landfall in Florida",
+      "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-09": {
     "top": {
       "headline": "Polanski vows to stay on as Green leader as criticism mounts after by-election defeat",
