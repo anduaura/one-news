@@ -1,4 +1,48 @@
 {
+  "2026-10-11": {
+    "top": {
+      "headline": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Toxicity and uncertainty await Man City - will their season even matter?",
+      "summary": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "How Trump reshaped the DOJ's Civil Rights Division to serve his agenda",
+      "summary": "The Civil Rights Division, long the crown jewel of the Justice Department, has been radically reshaped under President Trump, using its enforcement powers to pursue the president's MAGA agenda.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5963204/how-trump-reshaped-the-dojs-civil-rights-division-to-serve-his-agenda"
+    },
+    "world": {
+      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "King warns malicious online actors are evolving tactics",
+      "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-10": {
     "top": {
       "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
