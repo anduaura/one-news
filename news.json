@@ -1,4 +1,48 @@
 {
+  "2026-10-13": {
+    "top": {
+      "headline": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "summary": "Sir Ken McCallum says more is being done to tackle state threats than since the Cold War - and warns AI could be used to develop drones and potentially bioweapons.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "How much did Man City's rule breaking cost your team?",
+      "summary": "The potential impact of Manchester City's rule breaking runs deep, including missed Champions League qualification, relegation and Premier League prize money.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "One way to protect coral reefs? Bring back seabirds",
+      "summary": "Coral reefs are facing increasing threats around the globe. But on a remote Pacific island, scientists have found that reefs can get help from a surprising ally: seabirds.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5901320/coral-reefs-palmyra-atoll-birds-restoration"
+    },
+    "world": {
+      "headline": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+      "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Three things we've learnt about the UK economy from the IMF",
+      "summary": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+      "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Super El Ni\u00f1o sets another record as it strengthens to 'unprecedented levels'",
+      "summary": "El Ni\u00f1o has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-12": {
     "top": {
       "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
