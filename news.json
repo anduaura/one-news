@@ -1,4 +1,48 @@
 {
+  "2026-10-14": {
+    "top": {
+      "headline": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+      "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
+      "summary": "Organized criminal rings target SNAP recipients because of the government program's outdated security features. But upgrading the tech costs money and states' SNAP budgets are getting squeezed.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards"
+    },
+    "world": {
+      "headline": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+      "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "More tea? How Scotland's crops of the future could be set to change",
+      "summary": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-13": {
     "top": {
       "headline": "MI5 chief warns of threats to UK from Russia, Iran and AI",
