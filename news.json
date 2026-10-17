@@ -1,4 +1,48 @@
 {
+  "2026-10-17": {
+    "top": {
+      "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Ranking the Premier League's all-time greatest super subs",
+      "summary": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "No Kings turns its focus to voting this weekend. Here's what we know",
+      "summary": "The coalition behind nationwide anti-Trump protests is shifting its strategies this weekend to focus on voter turnout. Organizers say Saturday's events are a nonpartisan effort to get people to the polls.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump"
+    },
+    "world": {
+      "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Banks expect to be hit with higher taxes in Budget",
+      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
+      "summary": "Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-16": {
     "top": {
       "headline": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
