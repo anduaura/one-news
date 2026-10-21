@@ -1,4 +1,48 @@
 {
+  "2026-10-21": {
+    "top": {
+      "headline": "Lawyer caught offering to make illegal-worker fine go away",
+      "summary": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "The night 'ruthless' Ngumoha came of age for Liverpool",
+      "summary": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck0e0zydv33go?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
+      "summary": "Nearly a decade after Boeing unveiled its largest 737 Max jet, the company has cleared a major hurdle in its effort to bring the plane to airlines.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10"
+    },
+    "world": {
+      "headline": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Elon Musk considering Tesla-SpaceX merger",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Elon Musk considering Tesla-SpaceX merger",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Giant tunnel proposed to clean up Windermere's sewage problem",
+      "summary": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-20": {
     "top": {
       "headline": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
