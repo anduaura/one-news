@@ -1,4 +1,48 @@
 {
+  "2026-10-22": {
+    "top": {
+      "headline": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Fernandes rounds on Carrick after Man Utd humiliation",
+      "summary": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Supreme Court upholds pause on Trump's anti-trans prison policy",
+      "summary": "The Supreme Court ruled Wednesday that the Trump administration has to continue providing gender-affirming care to inmates in federal prisons as litigation on efforts to change the policy continues.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy"
+    },
+    "world": {
+      "headline": "What is PHP and why did it spark a global cyber-security scramble?",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "What is PHP and why did it spark a global cyber-security scramble?",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "NI risks missing 2030 energy goals, says Stormont committee",
+      "summary": "A committee hears that Northern Ireland could lose out on economic opportunities if action is not accelerated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c623d18dl3v0o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-21": {
     "top": {
       "headline": "Lawyer caught offering to make illegal-worker fine go away",
