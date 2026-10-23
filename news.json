@@ -1,4 +1,48 @@
 {
+  "2026-10-23": {
+    "top": {
+      "headline": "Detective raped by colleague says Met handling of case 'like being raped again'",
+      "summary": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Have Man Utd become the unmanageable club?",
+      "summary": "The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Trump merchandise stores are closing: 'He has peaked'",
+      "summary": "At least four Trump merchandise stores have closed this year. Store owners say with Trump in his final term, there isn't as much to fire up his consumer fan base and sales have softened.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms"
+    },
+    "world": {
+      "headline": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+      "summary": "The UN human rights chief Volker T\u00fcrk says the multiple attacks may amount to war crimes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Grid operator says lights will stay on this winter after concerns",
+      "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Heavy rain warning as Storm Austen sweeps across Scotland",
+      "summary": "The Met Office has issued a yellow warning for rain across Scotland on Friday, followed by a wind warning on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-22": {
     "top": {
       "headline": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
