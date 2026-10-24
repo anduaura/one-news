@@ -1,4 +1,48 @@
 {
+  "2026-10-24": {
+    "top": {
+      "headline": "France prepares for day of protest a week after nationwide riots",
+      "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
+      "summary": "With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Severe flooding hits Four Corners region, more expected through the weekend",
+      "summary": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners"
+    },
+    "world": {
+      "headline": "France prepares for day of protest a week after nationwide riots",
+      "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "How does the UK state pension compare with other countries?",
+      "summary": "Do British pensioners have it better or worse than those in other countries?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "The people on standby when a storm strikes",
+      "summary": "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-23": {
     "top": {
       "headline": "Detective raped by colleague says Met handling of case 'like being raped again'",
