@@ -1,4 +1,48 @@
 {
+  "2026-10-25": {
+    "top": {
+      "headline": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+      "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+      "summary": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+      "summary": "The 1,300 survivors of sexual abuse by clergy members and lay workers have all agreed to the settlement, according to an attorney for some of the plaintiffs.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement"
+    },
+    "world": {
+      "headline": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Four ways Labour could raise money in the Budget without hiking income tax",
+      "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Rosebank: Life on the oil field at the centre of a political storm",
+      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-24": {
     "top": {
       "headline": "France prepares for day of protest a week after nationwide riots",
