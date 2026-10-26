@@ -1,4 +1,48 @@
 {
+  "2026-10-26": {
+    "top": {
+      "headline": "Watch: How Lula turned it around to beat former president's son",
+      "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Fl\u00e1vio Bolsonaro in a knife-edge vote.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+      "summary": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "An inside look of the massive data center tearing a Wisconsin community apart",
+      "summary": "In Port Washington, Wisconsin, there's a data center being built that's as big as 500 football fields. Residents aren't sure if it could save their community or destroy it.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6011201/an-inside-look-of-the-massive-data-center-tearing-a-wisconsin-community-apart"
+    },
+    "world": {
+      "headline": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
+      "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-25": {
     "top": {
       "headline": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
