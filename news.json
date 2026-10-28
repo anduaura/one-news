@@ -1,4 +1,48 @@
 {
+  "2026-10-28": {
+    "top": {
+      "headline": "Israeli exit polls suggest no clear winner in pivotal general election",
+      "summary": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Dowman sees red as Arsenal dumped out, but did Arteta go too far?",
+      "summary": "A shocking defeat, a red card card, a penalty-shootout and a drone tell the story of Arsenal's dramatic loss to League Two Fleetwood Town in the last-16 of the Carabao Cup.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmg47g7dngxlo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Trump says he's ending restrictions on climate-warming methane from oil drilling",
+      "summary": "President Donald Trump said that his administration is \"terminating\" a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions"
+    },
+    "world": {
+      "headline": "Norway and Finland leaders hold rare call with Putin",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "I get \u00a34,062 a year and am trying my best - here's what I want from the Budget",
+      "summary": "People on a range of incomes from \u00a34,062 to \u00a3150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "'An annoying buzz': The search for stealthier drones",
+      "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Weather warning lifted as third storm to hit Scotland eases off",
+      "summary": "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-27": {
     "top": {
       "headline": "Israel heads to polls for pivotal election defined by security and democracy",
