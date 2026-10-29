@@ -1,4 +1,48 @@
 {
+  "2026-10-29": {
+    "top": {
+      "headline": "Healey promises reduction in welfare bill before next election",
+      "summary": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
+      "summary": "Estevao plays no part as Chelsea lose on penalties to Liverpool in the Carabao Cup - so where does this leave the exciting Brazilian with Xabi Alonso?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Hackers expose the identities of more than 40,000 DHS employees",
+      "summary": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government's lack of transparency.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice"
+    },
+    "world": {
+      "headline": "High-speed train crash kills at least 68 people in Spain",
+      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "I earn \u00a330,000. I'm angry there was no fuel duty cut in the Budget",
+      "summary": "People on a range of incomes from \u00a34,062 to \u00a3150,000 a year tell the BBC what they made of this year's Budget.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Ofcom outlines ways social media can verify ages of users",
+      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+      "summary": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-28": {
     "top": {
       "headline": "Israeli exit polls suggest no clear winner in pivotal general election",
