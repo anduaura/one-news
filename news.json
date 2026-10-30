@@ -1,4 +1,48 @@
 {
+  "2026-10-30": {
+    "top": {
+      "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Grealish dropped over 'breach of club discipline' - what now?",
+      "summary": "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Even birds get jet lagged, study shows",
+      "summary": "A species of seabirds appears to become disoriented on flights back to its nest due to shifting time zones.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6019228/manx-shearwater-jet-lag-birds"
+    },
+    "world": {
+      "headline": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "summary": "Fuel price rises are driving discontent, testing support for Ahmed al-Sharaa's government.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Hazardous driving conditions for Friday as fog warning issued by Met Office",
+      "summary": "Foggy conditions likely to bring tricky conditions for the Friday morning commute as severe weather warning issued.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-29": {
     "top": {
       "headline": "Healey promises reduction in welfare bill before next election",
