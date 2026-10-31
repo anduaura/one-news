@@ -1,4 +1,48 @@
 {
+  "2026-10-31": {
+    "top": {
+      "headline": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "What Howe could bring to Man Utd - and what are the challenges?",
+      "summary": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+      "summary": "Several children have had to leave the state to receive medical care, including abortions, that is unavailable in Texas.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump"
+    },
+    "world": {
+      "headline": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Global nature talks reach deal but money remains an issue",
+      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-30": {
     "top": {
       "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
