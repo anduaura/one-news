@@ -1,4 +1,48 @@
 {
+  "2026-11-01": {
+    "top": {
+      "headline": "Shops looted as German cost of living protests turn violent",
+      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+      "summary": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Devastating storms continue to hit Southwest 'Four Corners' region",
+      "summary": "Communities in the Southwest are bracing for more flooding this weekend. This follows weeks of devastating storms that have pummeled parts of the region.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6023454/devastating-storms-continue-to-hit-southwest-four-corners-region"
+    },
+    "world": {
+      "headline": "Shops looted as German cost of living protests turn violent",
+      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-10-31": {
     "top": {
       "headline": "US approves sale of 500 Patriot missiles to Ukraine",
