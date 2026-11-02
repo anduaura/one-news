@@ -1,4 +1,48 @@
 {
+  "2026-11-02": {
+    "top": {
+      "headline": "Shop freezers in seven European countries hit by cyber-attack",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "To dive or not to dive? Football's big dilemma",
+      "summary": "Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida",
+      "summary": "U.S. Transportation Secretary Duffy says all nine people died aboard a business jet that crashed into a Florida neighborhood. The aircraft departed from Austin, Texas, and was headed to the Bahamas.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash"
+    },
+    "world": {
+      "headline": "Shop freezers in seven European countries hit by cyber-attack",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Ryanair says it may freeze workers' pay and raise airfares",
+      "summary": "The airline says fuel prices may rise by \u20ac2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "summary": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-01": {
     "top": {
       "headline": "Shops looted as German cost of living protests turn violent",
