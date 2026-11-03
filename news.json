@@ -1,4 +1,48 @@
 {
+  "2026-11-03": {
+    "top": {
+      "headline": "How the US midterm results could unfold - as millions of Americans head to the polls",
+      "summary": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Tenerife striker De Miguel dies after on-field collision",
+      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Federal authorities investigate cause of deadly plane crash in Florida",
+      "summary": "Nine people were killed Sunday when a Learjet crashed in South Florida. Federal authorities are investigating the cause of the crash that occurred during bad weather.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6026568/federal-authorities-investigate-cause-of-deadly-plane-crash-in-florida"
+    },
+    "world": {
+      "headline": "US strikes Iranian island ahead of midterm elections",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Drivers may get compensation offers before car finance saga ends",
+      "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+      "summary": "Supermarkets in countries including Ireland, Sweden  and Belgium reported fridges being hiked in temperature on Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
+      "summary": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-02": {
     "top": {
       "headline": "Shop freezers in seven European countries hit by cyber-attack",
