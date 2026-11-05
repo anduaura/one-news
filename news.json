@@ -1,4 +1,48 @@
 {
+  "2026-11-05": {
+    "top": {
+      "headline": "Faisal Islam: How high will interest rates go?",
+      "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Ronaldo retires from Portugal duty",
+      "summary": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
+      "summary": "Sen. Kirsten Gillibrand spoke with Morning Edition about Democrats' priorities, from lowering costs to ending the Iran war. But questions remain about how they'll deliver.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities"
+    },
+    "world": {
+      "headline": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Faisal Islam: How high will interest rates go?",
+      "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Investigation into 'major fish kill' after pollution incident",
+      "summary": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-04": {
     "top": {
       "headline": "Five reasons why Republicans lost so badly",
