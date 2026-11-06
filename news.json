@@ -1,4 +1,48 @@
 {
+  "2026-11-06": {
+    "top": {
+      "headline": "Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction",
+      "summary": "Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to \"victim blaming\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Palmer misses too many chances to impress - Tuchel",
+      "summary": "England manager Thomas Tuchel says Cole Palmer \"misses too many chances to impress\" after not selecting the Chelsea forward for November's Nations League fixtures.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
+      "summary": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate"
+    },
+    "world": {
+      "headline": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "How does it affect me if share prices fall?",
+      "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Wales scraps controversial Uganda tree-planting scheme",
+      "summary": "The Welsh government has given more than \u00a34m to the scheme since 2015, but will end it due to budget pressures.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26m2l4p7eo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-05": {
     "top": {
       "headline": "Faisal Islam: How high will interest rates go?",
