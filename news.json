@@ -1,4 +1,48 @@
 {
+  "2026-11-08": {
+    "top": {
+      "headline": "Watch: Royals and veterans reflect at Remembrance ceremony",
+      "summary": "King Charles has led the annual Remembrance Sunday commemorations, laying a wreath at the solemn ceremony held at the Cenotaph.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "The oldest club in London making FA Cup history",
+      "summary": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Climate change is altering the colors we see in the world: an illustrated journey",
+      "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes"
+    },
+    "world": {
+      "headline": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+      "summary": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-07": {
     "top": {
       "headline": "Victims in rape cases must not feel like they are on trial, Burnham says",
