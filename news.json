@@ -1,4 +1,48 @@
 {
+  "2026-11-09": {
+    "top": {
+      "headline": "Watch: Moment judge sentences Brand in court",
+      "summary": "Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Incident-by-incident: Was it a bad weekend for VAR?",
+      "summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Democrats won big on issues like immigration. But ICE still has the money",
+      "summary": "Following Tuesday's \"blue wave,\" Democrats have vowed to reign in ICE's power. What could they actually accomplish?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election"
+    },
+    "world": {
+      "headline": "Krakow shooting suspect has died in hospital, police say",
+      "summary": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Civil servant who juggled five jobs found guilty of fraud",
+      "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Birds return to waterfowl park after oil vandalism",
+      "summary": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-08": {
     "top": {
       "headline": "Watch: Royals and veterans reflect at Remembrance ceremony",
