@@ -1,4 +1,48 @@
 {
+  "2026-11-10": {
+    "top": {
+      "headline": "US military aircraft leave second UK base",
+      "summary": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Carrick's Man Utd future to be decided at Wednesday meeting",
+      "summary": "Manchester United head coach Michael Carrick's future will be discussed at a meeting in Monaco on Wednesday.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "The Democratic Party gained power across the country in the midterms. Now what?",
+      "summary": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress"
+    },
+    "world": {
+      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-09": {
     "top": {
       "headline": "Watch: Moment judge sentences Brand in court",
