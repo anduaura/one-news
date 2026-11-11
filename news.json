@@ -1,4 +1,48 @@
 {
+  "2026-11-11": {
+    "top": {
+      "headline": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+      "summary": "The TV presenter says he was once \"friendly\" with David Walliams and Russell Brand, but was \"genuinely unaware\" of their conduct.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+      "summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Volunteer musicians play songs for veterans who are hospitalized",
+      "summary": "Volunteer musicians play for veterans and others who are hospitalized. They're part of  Musicians On Call, a group that spreads the healing power of music.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6005263/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized"
+    },
+    "world": {
+      "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-10": {
     "top": {
       "headline": "US military aircraft leave second UK base",
