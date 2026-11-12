@@ -1,4 +1,48 @@
 {
+  "2026-11-12": {
+    "top": {
+      "headline": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Crystal Palace sack boss Sage after 16 games",
+      "summary": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "At least 23 states considered laws governing ICE and schools this year",
+      "summary": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration"
+    },
+    "world": {
+      "headline": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Who could replace Jensen Huang as Nvidia's permanent chief executive?",
+      "summary": "Chief financial officer Colette Kress will replace him temporarily, but several others are in the frame as potential successors.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+      "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-11": {
     "top": {
       "headline": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
