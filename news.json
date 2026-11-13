@@ -1,4 +1,48 @@
 {
+  "2026-11-13": {
+    "top": {
+      "headline": "What we know about the global outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+      "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+      "summary": "Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manchester United.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united"
+    },
+    "world": {
+      "headline": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+      "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Summer heatwave put bin crews lives at risk, says council worker",
+      "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-12": {
     "top": {
       "headline": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
