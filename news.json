@@ -1,4 +1,48 @@
 {
+  "2026-11-14": {
+    "top": {
+      "headline": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+      "summary": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+      "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Stuck in airports nationwide, stranded travelers share how they're coping",
+      "summary": "People all over the country found themselves stuck in airports last night. We hear from some stranded travelers about how they're coping.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040931/stuck-in-airports-nationwide-stranded-travelers-share-how-theyre-coping"
+    },
+    "world": {
+      "headline": "What we know about the ground stop and what to do if you're affected",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Microsoft says services fully restored after day-long global outage",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Microsoft says services fully restored after day-long global outage",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "How to spot November's planetary parade in the pre-dawn sky",
+      "summary": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-13": {
     "top": {
       "headline": "What we know about the global outage",
