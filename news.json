@@ -1,4 +1,48 @@
 {
+  "2026-11-16": {
+    "top": {
+      "headline": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+      "summary": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "How Frank can restore reputation and save Crystal Palace",
+      "summary": "Will Thomas Frank rebuild his reputation at Crystal Palace after a bruising time in charge of Tottenham?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Air traffic controllers' union head on the nationwide ground stop",
+      "summary": "NPR's Steve Inskeep asks the head of the air traffic controllers' union what it was like for controllers as the FAA issued a nationwide ground stop.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6041644/air-traffic-controllers-union-head-on-the-nationwide-ground-stop"
+    },
+    "world": {
+      "headline": "Yemeni forces retreat to defend port city from Houthis",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "GTA 6 hacker pleads guilty after release from secure hospital",
+      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Yellow weather warnings issued for snow as temperatures plummet",
+      "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-15": {
     "top": {
       "headline": "Staggered age of consent to be discussed after Brand case, minister says",
