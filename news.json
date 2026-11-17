@@ -1,4 +1,48 @@
 {
+  "2026-11-17": {
+    "top": {
+      "headline": "Watch: What's in the Milburn review?",
+      "summary": "The government-backed review proposes changes to tax, welfare and education to help get young people into work.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Rooney says he considered taking his own life at Man Utd",
+      "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "She went to college to become a social worker. Now she's joined the skilled trades",
+      "summary": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs"
+    },
+    "world": {
+      "headline": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Speed camera fault may have allowed drivers to escape fines",
+      "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "How new US chip restrictions on South East Asia will hit China",
+      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "More than \u00a3160m needed to clean up one of Europe's largest illegal dumps",
+      "summary": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-16": {
     "top": {
       "headline": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
