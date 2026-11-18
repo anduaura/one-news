@@ -1,4 +1,48 @@
 {
+  "2026-11-18": {
+    "top": {
+      "headline": "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation rate rises again",
+      "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Joint-record six referee errors in last Premier League weekend",
+      "summary": "The Premier League's Key Match Incidents Panel rules there were six on-field errors in the last round of games - the joint-highest in one weekend.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8jy924y4o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "How the East Potomac golf course became a D.C. landmark \u2014 and what could happen to it",
+      "summary": "A federal judge is keeping East Potomac Park open for now, but hasn't ordered the government to keep the municipal golf course operational.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6042889/east-potomac-golf-history-future"
+    },
+    "world": {
+      "headline": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Typical energy bill forecast to go up by \u00a3443 a year from January as inflation rate rises again",
+      "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "The seven Anthropic founders who are about to become multi-billionaires",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-17": {
     "top": {
       "headline": "Watch: What's in the Milburn review?",
