@@ -1,4 +1,48 @@
 {
+  "2026-11-20": {
+    "top": {
+      "headline": "UK and EU to agree youth mobility scheme for up to 200,000 people a year",
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, sources tell the BBC, with new deals on food trade and carbon emissions also on the table.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Loneliness & mood swings - what's it like to miss a season through injury?",
+      "summary": "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
+      "summary": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders"
+    },
+    "world": {
+      "headline": "UK and EU to agree youth mobility scheme, BBC understands",
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "GTA 6 breaks records as estimated sales top $2.3bn",
+      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+      "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-19": {
     "top": {
       "headline": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
