@@ -1,4 +1,48 @@
 {
+  "2026-11-24": {
+    "top": {
+      "headline": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+      "summary": "Fifa president Gianni Infantino's globe-trotting by private jet since his plan to sell of a stake in the World Cup has come under scrutiny.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Chicago now has the worst traffic in the U.S. \u2014 here's why",
+      "summary": "Chicago takes the top ranking for traffic jams according to a pair of new analyses, and according to its many, many frustrated drivers who waste hours of their lives stuck in them.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6038839-e1/chicago-now-has-the-worst-traffic-in-the-u-s-heres-why"
+    },
+    "world": {
+      "headline": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "What failure of COP31 reveals about a divided world",
+      "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-23": {
     "top": {
       "headline": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
