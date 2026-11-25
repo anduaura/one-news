@@ -1,4 +1,48 @@
 {
+  "2026-11-25": {
+    "top": {
+      "headline": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+      "summary": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+      "summary": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "The Army says there's no reason to panic over controlled ammunition detonation in Iowa",
+      "summary": "The U.S. Army says it has taken precautions and there's no reason to panic about its' plan to detonate unusable bomb making material at its ammunition plant in Iowa, scheduled for Wednesday morning.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6053004/the-army-says-theres-no-reason-to-panic-over-controlled-ammunition-detonation-in-iowa"
+    },
+    "world": {
+      "headline": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Households braced for soaring energy bills with new price cap to be announced",
+      "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-24": {
     "top": {
       "headline": "How Nvidia is reacting to Jensen Huang's return as CEO",
