@@ -1,4 +1,48 @@
 {
+  "2026-11-26": {
+    "top": {
+      "headline": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+      "summary": "What are the findings for Mauricio Pochettino after his first two matches as Manchester United manager?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
+      "summary": "A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. The stations air in six of the largest U.S. markets.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr"
+    },
+    "world": {
+      "headline": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "UK government set to publish new treaties agreed with EU",
+      "summary": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "California warns of flooding as King Tides peak over Thanksgiving",
+      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-25": {
     "top": {
       "headline": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
