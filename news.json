@@ -1,4 +1,48 @@
 {
+  "2026-11-28": {
+    "top": {
+      "headline": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "summary": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss"
+    },
+    "soccer": {
+      "headline": "'You're not welcome here' - Chelsea fans turn on Fofana",
+      "summary": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss"
+    },
+    "us": {
+      "headline": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+      "summary": "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
+    },
+    "world": {
+      "headline": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary": "Prime Minister Pedro S\u00e1nchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+    },
+    "business": {
+      "headline": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
+    },
+    "tech": {
+      "headline": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "summary": "With an official PC version potentially still months away, fans are getting impatient.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss"
+    },
+    "science": {
+      "headline": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+      "summary": "Pennsylvania and neighbouring states remained badly affected on Friday after both coasts were lashed with wind and rain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss"
+    }
+  },
   "2026-11-27": {
     "top": {
       "headline": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
